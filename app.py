@@ -94,17 +94,35 @@ def pct(x, signed=True):
 
 
 def plotly_base(fig, h=420, title=None):
+    """One styler for every chart. The two rules that keep labels legible:
+    axes get automargin (long tick labels grow the margin instead of being
+    amputated), and the legend lives BELOW the plot so it can never collide
+    with the title band. Charts with a rangeslider get extra clearance."""
+    has_slider = False
+    try:
+        rs = fig.layout.xaxis.rangeslider
+        has_slider = bool(rs.visible)
+    except Exception:
+        pass
+    legend_y = -0.34 if has_slider else -0.16
     fig.update_layout(
-        template=None, height=h, title=title,
+        template=None, height=h,
+        title=dict(text=title, x=0.5, xanchor="center",
+                   y=0.985, yanchor="top",
+                   font=dict(size=15)) if title else None,
         paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor=C["panel2"],
         font=dict(family="IBM Plex Sans", color=C["text"], size=13),
-        margin=dict(l=10, r=10, t=48 if title else 24, b=10),
-        legend=dict(orientation="h", y=1.06, x=0, bgcolor="rgba(0,0,0,0)"),
+        margin=dict(l=12, r=16, t=58 if title else 28,
+                    b=88 if has_slider else 70),
+        legend=dict(orientation="h", yanchor="top", y=legend_y,
+                    xanchor="left", x=0, bgcolor="rgba(0,0,0,0)"),
         transition=dict(duration=450, easing="cubic-in-out"),
         hoverlabel=dict(bgcolor=C["panel"], font_family="IBM Plex Mono"),
     )
-    fig.update_xaxes(gridcolor=C["line"], zeroline=False)
-    fig.update_yaxes(gridcolor=C["line"], zeroline=False)
+    fig.update_xaxes(gridcolor=C["line"], zeroline=False,
+                     automargin=True, title_standoff=8)
+    fig.update_yaxes(gridcolor=C["line"], zeroline=False,
+                     automargin=True, title_standoff=8)
     return fig
 
 

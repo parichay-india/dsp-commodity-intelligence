@@ -235,7 +235,7 @@ kids.push(
   H1("5. System architecture and technology stack"),
   P("The design separates heavy offline computation from a light interactive front end. Training (cleaning, tournament, forecasts, signals) runs as a script and writes artifacts; the dashboard only reads artifacts and runs quick interactive mathematics, so it stays fast on free hosting."),
   FIG("System architecture",
-      "Draw as a left-to-right block diagram: [SAP export .xlsx] → [Data pipeline: price resolution, monthly series, catalog] → [Bake-off engine: 19 models + 4 ensembles, walk-forward referee] → [Artifacts: champions, forecasts, signals, ledger] → [Streamlit dashboard: 9 pages] with a side block [External feeds: FRED / yfinance] into the dashboard and a feedback arrow [Admin upload → merge → incremental retrain → audit] looping back to the pipeline. draw.io or PowerPoint works well; keep the engine blocks orange."),
+      "Generate with Prompt 3 in prompts.docx (or draw in draw.io/PowerPoint to the same specification): a six-block left-to-right chain — SAP export → data pipeline → bake-off engine (orange) → decision layer (orange) → artifacts store → 10-page Streamlit dashboard — with the external-feeds block (Yahoo Finance · World Bank Pink Sheet · Frankfurter/ECB) feeding Market Pulse, the GitHub → Streamlit Cloud hosting block beneath, and the dashed orange Admin feedback loop back to the pipeline."),
   T(["Layer", "Technology", "Why"], [
     ["Language", [{ text: "Python 3.12", mono: true }], "The standard for data science; one language end to end."],
     ["Data handling", [{ text: "pandas, NumPy, openpyxl", mono: true }], "Reads, cleans and reshapes the Excel register in seconds."],
@@ -262,7 +262,7 @@ kids.push(
   H2("6.3 The no-time-travel rule"),
   P("Purchase months are irregular, and models need a regular grid, so gap months are filled by straight-line interpolation in log space — but only ever from past observations at the moment of evaluation, and accuracy is scored exclusively against months containing a real purchase. This single discipline is what makes every accuracy number in this report survive scrutiny."),
   FIG("Data pipeline flow",
-      "Flow diagram: raw rows → three candidate rates → robust band check → provenance flags (OK / PRQTY / EST / QUARANTINE) → quantity-weighted monthly series → past-only grid. Can be drawn in draw.io; keep the quarantine branch red."),
+      "Generate with Prompt 4 in prompts.docx: the resolution cascade with its decision diamonds, the red quarantine branch and live line counts, into the weighted monthly series and past-only grid."),
 );
 
 // ================================================================ 7 forecasting 101
@@ -274,7 +274,7 @@ kids.push(
   P("Shuffling data into train and test — normal elsewhere in ML — is cheating with time series, because the model would 'train' on the future. The honest protocol is chronological: the first ~80% of observed months train the model, and the final ~20% form the exam. The exam itself is walk-forward: stand at a point in time, predict the next real purchase month (even if it comes four months later — a genuine multi-step forecast), reveal the truth, step forward, repeat."),
   EQ("|—————— ~80% train ——————|—— ~20% walk-forward test ——|"),
   FIG("Walk-forward evaluation",
-      "Timeline diagram: dots for observed purchase months; a moving 'now' cursor; an arrow from each cursor across the true gap to the next dot labelled 'forecast h steps'; shaded final 20% labelled 'exam — never used for training or tuning'."),
+      "Generate with Prompt 5 in prompts.docx: irregular purchase-month dots, the shaded exam window, and three 'now' cursors forecasting across true gaps."),
   H2("7.3 The three scores used everywhere"),
   ...UL([
     [{ text: "MAPE — mean absolute percentage error. ", bold: true },
@@ -444,7 +444,7 @@ kids.push(
   P("Lotfi Zadeh's 1965 insight: let statements be true to a degree between 0 and 1. 'Prices are rising' becomes a membership function — a curve mapping the actual forecast move to a truth degree. In this project the curves are trapezoids: flat at fully-false, a straight ramp, flat at fully-true. Example, the 'rising' set over the 3-month forecast move: 0 below +2%, ramping up between +2% and +6%, 1 above +6%. A forecast of +4% is 'rising' to degree 0.5 — half-true, and that is a meaningful, usable number."),
   EQ("μ_rising(+4%) = 0.5     μ_rising(+1%) = 0     μ_rising(+8%) = 1"),
   FIG("Membership functions",
-      "Plot the trapezoids for one input (e.g. expected move: falling / flat / rising over −10%…+10%). Ten lines of matplotlib, or a clean hand sketch; label the axes and the 50%-membership example point."),
+      "Generate with Prompt 6 in prompts.docx: the falling / flat / rising trapezoids with the μ_rising(+4%) = 0.5 example point marked. (Ten lines of matplotlib also works.)"),
   H2("11.3 Linguistic variables and rules"),
   P("A linguistic variable is an input described by such labelled sets. This engine uses four, all computed from data: expected move (falling / flat / rising), momentum of the last ~6 observed prices (down / flat / up), urgency = months since the last PO ÷ the commodity's own median cycle (low / medium / high), and volatility = coefficient of variation of the last 12 prices (low / high). Knowledge then reads like a buyer talking:"),
   EQ("IF move IS rising AND urgency IS high THEN action IS strong-buy"),
@@ -461,7 +461,7 @@ kids.push(
   EQ("score = Σ(x · μ(x)) ÷ Σ(μ(x))   over the 0–100 axis"),
   P("Score bands map to verdicts: ≥72 BUY NOW, 58–72 BUY/STAGGER, 42–58 MONITOR, 28–42 WAIT, <28 HOLD OFF. And because the fired rules are known, their plain-English texts become the visible reasons — the explanation IS the mechanism, not a commentary on it."),
   FIG("Mamdani inference, end to end",
-      "Diagram the five steps for two rules: input axes with membership curves and dashed lines at the actual values → min → clipped output shapes → max overlay → centroid arrow at the final score. This is the classic two-rule Mamdani illustration; draw.io or the notebook can produce it."),
+      "Generate with Prompt 7 in prompts.docx: the two-rule Mamdani grid populated with the live Silico Manganese numbers from Section 11.5, ending at the real score of 65.9."),
   H2("11.5 A live worked example from the plant's data"),
   CALL([
     [{ text: `${F.commodity}, as of ${S.asof}. `, bold: true },
