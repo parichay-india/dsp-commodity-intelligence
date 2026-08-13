@@ -1,0 +1,13 @@
+{
+  "rows_raw": 21441,
+  "rows_priced": 20931,
+  "rows_dropped": 510,
+  "resolved_prqty": 773,
+  "resolved_est": 669,
+  "commodities_total": 5698,
+  "commodities_modelable": 102,
+  "span": [
+    "2015-02-26",
+    "2026-07-31"
+  ]
+}
