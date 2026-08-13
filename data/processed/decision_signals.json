@@ -1,0 +1,3783 @@
+{
+ "asof": "2026-07-31",
+ "signals": {
+  "SILICO MANGANESE,25 TO 50 MM": {
+   "score": 65.9,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "Stable prices, normal cycle position \u2014 proceed on routine timing."
+   ],
+   "inputs": {
+    "exp_move": -0.017980550173062815,
+    "momentum": 0.006580995080321033,
+    "urgency": 1.3461538461538463,
+    "volatility": 0.07820737045890236
+   },
+   "exp_move_3m": -0.017980550173062815,
+   "exp_move_6m": -0.017980550173062815,
+   "exp_move_12m": -0.017980550173062815,
+   "momentum": 0.006580995080321033,
+   "volatility": 0.07820737045890236,
+   "urgency": 1.3461538461538463,
+   "months_since_last": 2.299605781865966,
+   "cycle_months": 1.7082785808147174,
+   "last_price": 74949.15000000001,
+   "forecast": {
+    "p50_3": 73601.5230479966,
+    "p10_3": 69277.54951662262,
+    "p90_3": 77925.49657937058,
+    "p50_6": 73601.5230479966,
+    "p10_6": 67486.50103658522,
+    "p90_6": 79716.54505940797,
+    "p50_12": 73601.5230479966,
+    "p10_12": 64953.57598524863,
+    "p90_12": 82249.47011074457
+   },
+   "ratio_q25": 1.0000606224639546,
+   "ratio_q75": 1.1210530839957962
+  },
+  "BOF STEEL LADLE SET": {
+   "score": 61.9,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "No urgency yet, but locking volume before a forecast rise protects cost.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.25181464615609844,
+    "momentum": -0.01930704711860496,
+    "urgency": 0.014814814814814815,
+    "volatility": 0.3733299393000099
+   },
+   "exp_move_3m": 0.25181464615609844,
+   "exp_move_6m": 0.20482386399061622,
+   "exp_move_12m": 5.648219815800999e-16,
+   "momentum": -0.01930704711860496,
+   "volatility": 0.3733299393000099,
+   "urgency": 0.014814814814814815,
+   "months_since_last": 0.0328515111695138,
+   "cycle_months": 2.2174770039421814,
+   "last_price": 1648878.0624473686,
+   "forecast": {
+    "p50_3": 2064089.708297106,
+    "p10_3": 1564063.5584888316,
+    "p90_3": 2564115.858105381,
+    "p50_6": 1986607.6384471992,
+    "p10_6": 1354167.9593461675,
+    "p90_6": 2619047.3175482308,
+    "p50_12": 1648878.0624473696,
+    "p10_12": 906524.9282679708,
+    "p90_12": 2391231.1966267684
+   },
+   "ratio_q25": 0.8608942330969027,
+   "ratio_q75": 1.0
+  },
+  "FERRO SILICON,25-50MM": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -6.269345865918056e-16,
+    "momentum": 0.007355543542588989,
+    "urgency": 1.6944444444444444,
+    "volatility": 0.15908298002102755
+   },
+   "exp_move_3m": -6.269345865918056e-16,
+   "exp_move_6m": -6.269345865918056e-16,
+   "exp_move_12m": -6.269345865918056e-16,
+   "momentum": 0.007355543542588989,
+   "volatility": 0.15908298002102755,
+   "urgency": 1.6944444444444444,
+   "months_since_last": 4.0078843626806835,
+   "cycle_months": 2.3653088042049935,
+   "last_price": 139267.3067294806,
+   "forecast": {
+    "p50_3": 139267.3067294805,
+    "p10_3": 127374.57124501004,
+    "p90_3": 151160.042213951,
+    "p50_6": 139267.3067294805,
+    "p10_6": 122448.43891362661,
+    "p90_6": 156086.17454533442,
+    "p50_12": 139267.3067294805,
+    "p10_12": 115481.83576053956,
+    "p90_12": 163052.77769842144
+   },
+   "ratio_q25": 0.9908545747956653,
+   "ratio_q75": 1.0658496674317584
+  },
+  "FERRO VANADIUM,IS:1466-1985": {
+   "score": 80.2,
+   "label": "BUY NOW",
+   "colour": "#16a34a",
+   "reasons": [
+    "Prices expected to rise and the ordering cycle is overdue \u2014 cover now.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.13599769547579266,
+    "momentum": -0.010550235178018624,
+    "urgency": 6.313725490196079,
+    "volatility": 0.1777750217474834
+   },
+   "exp_move_3m": 0.13599769547579266,
+   "exp_move_6m": -0.06290459698504697,
+   "exp_move_12m": 0.0,
+   "momentum": -0.010550235178018624,
+   "volatility": 0.1777750217474834,
+   "urgency": 6.313725490196079,
+   "months_since_last": 10.578186596583443,
+   "cycle_months": 1.6754270696452036,
+   "last_price": 1278.82,
+   "forecast": {
+    "p50_3": 1452.736572928353,
+    "p10_3": 1287.4811773991564,
+    "p90_3": 1617.9919684575502,
+    "p50_6": 1198.3763432835822,
+    "p10_6": 1011.7114522787804,
+    "p90_6": 1385.0412342883842,
+    "p50_12": 1278.82,
+    "p10_12": 997.1154695663208,
+    "p90_12": 1560.524530433679
+   },
+   "ratio_q25": 0.7627430055288208,
+   "ratio_q75": 1.3672342383801197
+  },
+  "LINING,TUNDISH FOR BILLET CASTER": {
+   "score": 61.9,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "No urgency yet, but locking volume before a forecast rise protects cost.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.12932048621696174,
+    "momentum": 0.0010352337317438263,
+    "urgency": 0.03389830508474576,
+    "volatility": 0.13322249531644476
+   },
+   "exp_move_3m": 0.12932048621696174,
+   "exp_move_6m": 0.08026864836223396,
+   "exp_move_12m": 0.04554546982820345,
+   "momentum": 0.0010352337317438263,
+   "volatility": 0.13322249531644476,
+   "urgency": 0.03389830508474576,
+   "months_since_last": 0.19710906701708278,
+   "cycle_months": 5.814717477003942,
+   "last_price": 186961.391635452,
+   "forecast": {
+    "p50_3": 211139.32970554844,
+    "p10_3": 189267.86276584852,
+    "p90_3": 233010.7966452483,
+    "p50_6": 201968.529837952,
+    "p10_6": 180906.15923722103,
+    "p90_6": 223030.90043868305,
+    "p50_12": 195476.6360572234,
+    "p10_12": 166647.3823299868,
+    "p90_12": 224305.88978446
+   },
+   "ratio_q25": 0.9530415729127171,
+   "ratio_q75": 1.0756665272799681
+  },
+  "LINING,TUNDISH F/BLOOM CASTER": {
+   "score": 37.4,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.00045162103473110165,
+    "momentum": -0.006989838783149782,
+    "urgency": 0.13720316622691295,
+    "volatility": 0.397811743073074
+   },
+   "exp_move_3m": 0.00045162103473110165,
+   "exp_move_6m": -0.0039036846254214093,
+   "exp_move_12m": -0.008832520602399892,
+   "momentum": -0.006989838783149782,
+   "volatility": 0.397811743073074,
+   "urgency": 0.13720316622691295,
+   "months_since_last": 1.7082785808147174,
+   "cycle_months": 12.450722733245728,
+   "last_price": 144690.9043987001,
+   "forecast": {
+    "p50_3": 144756.24985466083,
+    "p10_3": 104331.07393284676,
+    "p90_3": 185181.42577647496,
+    "p50_6": 144126.07673976058,
+    "p10_6": 103876.88533714076,
+    "p90_6": 184375.2681423804,
+    "p50_12": 143412.9190046187,
+    "p10_12": 87634.63683503617,
+    "p90_12": 199191.20117420127
+   },
+   "ratio_q25": 0.9493126472569232,
+   "ratio_q75": 1.0797207350096711
+  },
+  "GRAPHITE ELECTRODE ,IS:9050,457MM,1800MM": {
+   "score": 37.4,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.0015487280888693438,
+    "momentum": -0.0070869082812065,
+    "urgency": 0.4672131147540983,
+    "volatility": 0.13834237035390773
+   },
+   "exp_move_3m": 0.0015487280888693438,
+   "exp_move_6m": 0.0005574905675672063,
+   "exp_move_12m": -0.000621661311566688,
+   "momentum": -0.0070869082812065,
+   "volatility": 0.13834237035390773,
+   "urgency": 0.4672131147540983,
+   "months_since_last": 1.8725361366622864,
+   "cycle_months": 4.0078843626806835,
+   "last_price": 270.48,
+   "forecast": {
+    "p50_3": 270.8988999734774,
+    "p10_3": 267.48275770479864,
+    "p90_3": 274.3150422421561,
+    "p50_6": 270.6307900487156,
+    "p10_6": 266.85690853788344,
+    "p90_6": 274.4046715595477,
+    "p50_12": 270.31185304844746,
+    "p10_12": 264.9810683479089,
+    "p90_12": 275.64263774898603
+   },
+   "ratio_q25": 0.9606036013595494,
+   "ratio_q75": 1.0904555725473724
+  },
+  "FERRO MANGANESE,25-50MM": {
+   "score": 37.0,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.009794374200915166,
+    "momentum": 0.005832192148187784,
+    "urgency": 0.4059040590405904,
+    "volatility": 0.12551152501843715
+   },
+   "exp_move_3m": -0.009794374200915166,
+   "exp_move_6m": -0.03545085730842566,
+   "exp_move_12m": 0.06099313592395273,
+   "momentum": 0.005832192148187784,
+   "volatility": 0.12551152501843715,
+   "urgency": 0.4059040590405904,
+   "months_since_last": 1.8068331143232588,
+   "cycle_months": 4.451379763469119,
+   "last_price": 71824.57,
+   "forecast": {
+    "p50_3": 71121.09328460018,
+    "p10_3": 68859.14892471638,
+    "p90_3": 73383.03764448398,
+    "p50_6": 69278.32741769098,
+    "p10_6": 66162.338635152,
+    "p90_6": 72394.31620022994,
+    "p50_12": 76205.37576068947,
+    "p10_12": 71358.08469881145,
+    "p90_12": 81052.66682256748
+   },
+   "ratio_q25": 0.9816488347109685,
+   "ratio_q75": 1.2234100897043645
+  },
+  "CASTABLE,LOW CEMENT GEL BONDED": {
+   "score": 61.9,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "No urgency yet, but locking volume before a forecast rise protects cost.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.11923761420019044,
+    "momentum": 0.002568322091585646,
+    "urgency": 0.3763440860215054,
+    "volatility": 0.31796287267885914
+   },
+   "exp_move_3m": 0.11923761420019044,
+   "exp_move_6m": 0.13640018682248745,
+   "exp_move_12m": 0.17151888870191748,
+   "momentum": 0.002568322091585646,
+   "volatility": 0.31796287267885914,
+   "urgency": 0.3763440860215054,
+   "months_since_last": 1.149802890932983,
+   "cycle_months": 3.055190538764783,
+   "last_price": 172.53988920221596,
+   "forecast": {
+    "p50_3": 193.1131339450534,
+    "p10_3": 173.12925826225398,
+    "p90_3": 213.0970096278528,
+    "p50_6": 196.0743623237295,
+    "p10_6": 167.81574012625936,
+    "p90_6": 224.33298452119968,
+    "p50_12": 202.133739254932,
+    "p10_12": 160.93499491137567,
+    "p90_12": 243.3324835984883
+   },
+   "ratio_q25": 0.9602376461350344,
+   "ratio_q75": 1.1308294766820932
+  },
+  "TAP HOLE MASS,TYPE:HP ANHUDROUS": {
+   "score": 61.9,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "No urgency yet, but locking volume before a forecast rise protects cost.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.2279854318974994,
+    "momentum": 0.004590286732119766,
+    "urgency": 0.24489795918367346,
+    "volatility": 0.16062725163177025
+   },
+   "exp_move_3m": 0.2279854318974994,
+   "exp_move_6m": 0.2494991925141636,
+   "exp_move_12m": 0.2936640517290788,
+   "momentum": 0.004590286732119766,
+   "volatility": 0.16062725163177025,
+   "urgency": 0.24489795918367346,
+   "months_since_last": 1.1826544021024967,
+   "cycle_months": 4.829172141918528,
+   "last_price": 39.2,
+   "forecast": {
+    "p50_3": 48.13702893038198,
+    "p10_3": 42.56233628274834,
+    "p90_3": 53.71172157801563,
+    "p50_6": 48.98036834655522,
+    "p10_6": 40.9584416115011,
+    "p90_6": 57.00229508160933,
+    "p50_12": 50.71163082777989,
+    "p10_12": 38.96592230330936,
+    "p90_12": 62.45733935225042
+   },
+   "ratio_q25": 1.0001433965871611,
+   "ratio_q75": 1.0745841971499308
+  },
+  "CALCINED PETROLEUM COKE, SIZE : 2-10MM": {
+   "score": 80.2,
+   "label": "BUY NOW",
+   "colour": "#16a34a",
+   "reasons": [
+    "Prices expected to rise and the ordering cycle is overdue \u2014 cover now.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.13228616022911338,
+    "momentum": -0.005533497063690638,
+    "urgency": 2.5531914893617023,
+    "volatility": 0.45357593341707714
+   },
+   "exp_move_3m": 0.13228616022911338,
+   "exp_move_6m": 0.25372124762335496,
+   "exp_move_12m": 0.5384815061603121,
+   "momentum": -0.005533497063690638,
+   "volatility": 0.45357593341707714,
+   "urgency": 2.5531914893617023,
+   "months_since_last": 7.884362680683311,
+   "cycle_months": 3.088042049934297,
+   "last_price": 58400.42160737813,
+   "forecast": {
+    "p50_3": 66125.98913757953,
+    "p10_3": 52340.93317772215,
+    "p90_3": 79911.04509743692,
+    "p50_6": 73217.84943933204,
+    "p10_6": 57920.34561289286,
+    "p90_6": 88515.35326577122,
+    "p50_12": 89847.96859491634,
+    "p10_12": 63300.27098635217,
+    "p90_12": 116395.66620348052
+   },
+   "ratio_q25": 0.9300122355869169,
+   "ratio_q75": 1.2268510042054395
+  },
+  "CASTABLE,90% HIGH ALUMINA": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 7.779895775641112e-05,
+    "momentum": 0.002133241552993371,
+    "urgency": 5.5,
+    "volatility": 0.1674208273541974
+   },
+   "exp_move_3m": 7.779895775641112e-05,
+   "exp_move_6m": 7.779895775641112e-05,
+   "exp_move_12m": 7.779895775641112e-05,
+   "momentum": 0.002133241552993371,
+   "volatility": 0.1674208273541974,
+   "urgency": 5.5,
+   "months_since_last": 14.45466491458607,
+   "cycle_months": 2.628120893561104,
+   "last_price": 87.26,
+   "forecast": {
+    "p50_3": 87.26678873705383,
+    "p10_3": 80.67145730239086,
+    "p90_3": 93.8621201717168,
+    "p50_6": 87.26678873705383,
+    "p10_6": 78.48323179331156,
+    "p90_6": 96.0503456807961,
+    "p50_12": 87.26678873705383,
+    "p10_12": 74.84496338133714,
+    "p90_12": 99.68861409277052
+   },
+   "ratio_q25": 1.0,
+   "ratio_q75": 1.057211925866237
+  },
+  "BELT,CONVY,M24,1250KN/M,4,6X3MM,1200MM": {
+   "score": 37.4,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -4.0844041844523553e-16,
+    "momentum": -0.012871899035270726,
+    "urgency": 0.06358381502890173,
+    "volatility": 0.19098636320086226
+   },
+   "exp_move_3m": -4.0844041844523553e-16,
+   "exp_move_6m": -4.0844041844523553e-16,
+   "exp_move_12m": -4.0844041844523553e-16,
+   "momentum": -0.012871899035270726,
+   "volatility": 0.19098636320086226,
+   "urgency": 0.06358381502890173,
+   "months_since_last": 0.36136662286465177,
+   "cycle_months": 5.683311432325887,
+   "last_price": 2226.75,
+   "forecast": {
+    "p50_3": 2226.749999999999,
+    "p10_3": 1717.4421468455444,
+    "p90_3": 2736.0578531544543,
+    "p50_6": 2226.749999999999,
+    "p10_6": 1506.4799266458444,
+    "p90_6": 2947.0200733541537,
+    "p50_12": 2226.749999999999,
+    "p10_12": 1208.1342936910894,
+    "p90_12": 3245.365706308909
+   },
+   "ratio_q25": 0.8960681520314548,
+   "ratio_q75": 1.0643541735233504
+  },
+  "COMPUND,NOZZLE FILLING, F/FREE OPENING": {
+   "score": 71.7,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Upward price outlook with a due-soon ordering cycle \u2014 buy ahead of the rise.",
+    "Prices expected to rise and the ordering cycle is overdue \u2014 cover now."
+   ],
+   "inputs": {
+    "exp_move": 0.07473207537702735,
+    "momentum": 0.002280600558862076,
+    "urgency": 1.1313868613138687,
+    "volatility": 0.09451163226847087
+   },
+   "exp_move_3m": 0.07473207537702735,
+   "exp_move_6m": 0.07856860676858063,
+   "exp_move_12m": 0.08628280488533158,
+   "momentum": 0.002280600558862076,
+   "volatility": 0.09451163226847087,
+   "urgency": 1.1313868613138687,
+   "months_since_last": 5.091984231274639,
+   "cycle_months": 4.50065703022339,
+   "last_price": 1823.18,
+   "forecast": {
+    "p50_3": 1959.4300251858888,
+    "p10_3": 1713.9036492737291,
+    "p90_3": 2204.956401098048,
+    "p50_6": 1966.424712488341,
+    "p10_6": 1617.95846700982,
+    "p90_6": 2314.8909579668625,
+    "p50_12": 1980.4890842108389,
+    "p10_12": 1484.158721677226,
+    "p90_12": 2476.8194467444514
+   },
+   "ratio_q25": 0.9147069770078544,
+   "ratio_q75": 1.05650522317189
+  },
+  "ANHYDROUS TROUGH MASS": {
+   "score": 37.4,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.01473221526841869,
+    "momentum": 0.00745421870051894,
+    "urgency": 0.35772357723577236,
+    "volatility": 0.17695160753679576
+   },
+   "exp_move_3m": -0.01473221526841869,
+   "exp_move_6m": -0.009845751466804015,
+   "exp_move_12m": -1.8249460273792222e-16,
+   "momentum": 0.00745421870051894,
+   "volatility": 0.17695160753679576,
+   "urgency": 0.35772357723577236,
+   "months_since_last": 1.445466491458607,
+   "cycle_months": 4.040735873850197,
+   "last_price": 77.87,
+   "forecast": {
+    "p50_3": 76.72280239704824,
+    "p10_3": 70.55753132709515,
+    "p90_3": 82.88807346700133,
+    "p50_6": 77.10331133327998,
+    "p10_6": 70.03329953678322,
+    "p90_6": 84.17332312977672,
+    "p50_12": 77.86999999999999,
+    "p10_12": 67.77207173927177,
+    "p90_12": 87.96792826072821
+   },
+   "ratio_q25": 1.0018255487777727,
+   "ratio_q75": 1.064745361231741
+  },
+  "CASTABLE,WHYTHEAT-C OR EQVLT": {
+   "score": 46.2,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "No urgency yet, but locking volume before a forecast rise protects cost."
+   ],
+   "inputs": {
+    "exp_move": 0.02553947849901805,
+    "momentum": 0.010538250351860205,
+    "urgency": 0.5513513513513514,
+    "volatility": 0.138501469932384
+   },
+   "exp_move_3m": 0.02553947849901805,
+   "exp_move_6m": 0.034580381243775056,
+   "exp_move_12m": 0.05290199646642224,
+   "momentum": 0.010538250351860205,
+   "volatility": 0.138501469932384,
+   "urgency": 0.5513513513513514,
+   "months_since_last": 1.6754270696452036,
+   "cycle_months": 3.038764783180026,
+   "last_price": 37.0,
+   "forecast": {
+    "p50_3": 37.94496070446367,
+    "p10_3": 37.11816613667379,
+    "p90_3": 38.77175527225355,
+    "p50_6": 38.27947410601968,
+    "p10_6": 37.099902071524205,
+    "p90_6": 39.45904614051516,
+    "p50_12": 38.95737386925762,
+    "p10_12": 37.2596651620947,
+    "p90_12": 40.65508257642055
+   },
+   "ratio_q25": 1.0,
+   "ratio_q75": 1.017933923595016
+  },
+  "FERRO CHROME, HIGH CARBON, SIZE:20-50 MM": {
+   "score": 33.3,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy."
+   ],
+   "inputs": {
+    "exp_move": 0.017246563859927223,
+    "momentum": 0.014127612004396392,
+    "urgency": 0.16428571428571428,
+    "volatility": 0.07766926570034689
+   },
+   "exp_move_3m": 0.017246563859927223,
+   "exp_move_6m": 0.030055235680934374,
+   "exp_move_12m": 0.0561584517048318,
+   "momentum": 0.014127612004396392,
+   "volatility": 0.07766926570034689,
+   "urgency": 0.16428571428571428,
+   "months_since_last": 0.7555847568988173,
+   "cycle_months": 4.599211563731932,
+   "last_price": 128.87,
+   "forecast": {
+    "p50_3": 131.09256468462883,
+    "p10_3": 121.35833548228364,
+    "p90_3": 140.82679388697403,
+    "p50_6": 132.74321822220202,
+    "p10_6": 118.80360100500822,
+    "p90_6": 146.68283543939583,
+    "p50_12": 136.10713967120168,
+    "p10_12": 115.89397049837464,
+    "p90_12": 156.32030884402872
+   },
+   "ratio_q25": 0.9820021462632983,
+   "ratio_q75": 1.0656196142974235
+  },
+  "CASTABLE,HIGH ALUMINA,AL203:90%": {
+   "score": 74.9,
+   "label": "BUY NOW",
+   "colour": "#16a34a",
+   "reasons": [
+    "Prices expected to rise and the ordering cycle is overdue \u2014 cover now.",
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates."
+   ],
+   "inputs": {
+    "exp_move": 0.0434861567105863,
+    "momentum": 0.0057906799203449435,
+    "urgency": 4.8474576271186445,
+    "volatility": 0.34410279946475747
+   },
+   "exp_move_3m": 0.0434861567105863,
+   "exp_move_6m": 0.06322328923677105,
+   "exp_move_12m": 0.10382457592006947,
+   "momentum": 0.0057906799203449435,
+   "volatility": 0.34410279946475747,
+   "urgency": 4.8474576271186445,
+   "months_since_last": 14.09329829172142,
+   "cycle_months": 2.907358738501971,
+   "last_price": 97.8365564566438,
+   "forecast": {
+    "p50_3": 102.09109228274154,
+    "p10_3": 86.37723194786426,
+    "p90_3": 117.80495261761882,
+    "p50_6": 104.02210536343188,
+    "p10_6": 87.9032035550406,
+    "p90_6": 120.14100717182312,
+    "p50_12": 107.99439544023478,
+    "p10_12": 84.32833192950602,
+    "p90_12": 131.66045895096354
+   },
+   "ratio_q25": 0.958894861208486,
+   "ratio_q75": 1.2787962959615888
+  },
+  "CALCINED BAUXITE,10-40MM": {
+   "score": 68.1,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Stable prices, normal cycle position \u2014 proceed on routine timing."
+   ],
+   "inputs": {
+    "exp_move": 0.030963175621571824,
+    "momentum": -0.003053565246787129,
+    "urgency": 1.2473118279569892,
+    "volatility": 0.14720280202800867
+   },
+   "exp_move_3m": 0.030963175621571824,
+   "exp_move_6m": 0.031791413707533425,
+   "exp_move_12m": -0.07751914785119045,
+   "momentum": -0.003053565246787129,
+   "volatility": 0.14720280202800867,
+   "urgency": 1.2473118279569892,
+   "months_since_last": 5.716162943495401,
+   "cycle_months": 4.582785808147174,
+   "last_price": 8.520650533728274,
+   "forecast": {
+    "p50_3": 8.784476932614142,
+    "p10_3": 8.295386190480311,
+    "p90_3": 9.273567674747971,
+    "p50_6": 8.791534059903345,
+    "p10_6": 8.137434005917331,
+    "p90_6": 9.445634113889358,
+    "p50_12": 7.860136965215867,
+    "p10_12": 7.033100547579128,
+    "p90_12": 8.687173382852606
+   },
+   "ratio_q25": 1.0,
+   "ratio_q75": 1.0795413310109585
+  },
+  "QUARTZITE,25-75MM": {
+   "score": 50.0,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Stable prices, normal cycle position \u2014 proceed on routine timing.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.012710012074789116,
+    "momentum": 0.002266939952455657,
+    "urgency": 0.8364779874213837,
+    "volatility": 0.12132030644890418
+   },
+   "exp_move_3m": -0.012710012074789116,
+   "exp_move_6m": -0.024885046963751895,
+   "exp_move_12m": -0.04529199314724832,
+   "momentum": 0.002266939952455657,
+   "volatility": 0.12132030644890418,
+   "urgency": 0.8364779874213837,
+   "months_since_last": 4.369250985545335,
+   "cycle_months": 5.223390275952694,
+   "last_price": 2052.0,
+   "forecast": {
+    "p50_3": 2025.9190552225327,
+    "p10_3": 1873.459972078237,
+    "p90_3": 2178.3781383668297,
+    "p50_6": 2000.935883630381,
+    "p10_6": 1821.4715885207827,
+    "p90_6": 2180.40017873998,
+    "p50_12": 1959.0608300618464,
+    "p10_12": 1710.5714663817878,
+    "p90_12": 2207.5501937419053
+   },
+   "ratio_q25": 0.9733297157678035,
+   "ratio_q75": 1.1140096505759458
+  },
+  "CASTING POWDER": {
+   "score": 35.3,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "Stable prices, normal cycle position \u2014 proceed on routine timing."
+   ],
+   "inputs": {
+    "exp_move": -0.02476301604544507,
+    "momentum": -0.0008096331036564152,
+    "urgency": 0.6337448559670782,
+    "volatility": 0.15561726419253882
+   },
+   "exp_move_3m": -0.02476301604544507,
+   "exp_move_6m": 0.004561742054719331,
+   "exp_move_12m": -0.03864503593096095,
+   "momentum": -0.0008096331036564152,
+   "volatility": 0.15561726419253882,
+   "urgency": 0.6337448559670782,
+   "months_since_last": 5.059132720105125,
+   "cycle_months": 7.982917214191852,
+   "last_price": 40.961388780963176,
+   "forecast": {
+    "p50_3": 39.94706125333647,
+    "p10_3": 34.645258535423594,
+    "p90_3": 45.24886397124935,
+    "p50_6": 41.148244070785005,
+    "p10_6": 34.712129197246135,
+    "p90_6": 47.584358944323874,
+    "p50_12": 39.37843443974079,
+    "p10_12": 30.667877509751587,
+    "p90_12": 48.08899136972999
+   },
+   "ratio_q25": 0.9006974427100631,
+   "ratio_q75": 1.1511052933474697
+  },
+  "BELT,CONVY,M24,1000KN/M,4,6X3MM,1000MM": {
+   "score": 37.2,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -5.384811733409877e-16,
+    "momentum": -0.008393045844899775,
+    "urgency": 0.0658682634730539,
+    "volatility": 0.12766059470580524
+   },
+   "exp_move_3m": -5.384811733409877e-16,
+   "exp_move_6m": -5.384811733409877e-16,
+   "exp_move_12m": -5.384811733409877e-16,
+   "momentum": -0.008393045844899775,
+   "volatility": 0.12766059470580524,
+   "urgency": 0.0658682634730539,
+   "months_since_last": 0.36136662286465177,
+   "cycle_months": 5.486202365308804,
+   "last_price": 1689.0,
+   "forecast": {
+    "p50_3": 1688.999999999999,
+    "p10_3": 1433.7274763863063,
+    "p90_3": 1944.272523613692,
+    "p50_6": 1688.999999999999,
+    "p10_6": 1327.990135004309,
+    "p90_6": 2050.009864995689,
+    "p50_12": 1688.999999999999,
+    "p10_12": 1178.4549527726138,
+    "p90_12": 2199.5450472273847
+   },
+   "ratio_q25": 0.8920371570454085,
+   "ratio_q75": 1.0723972958918355
+  },
+  "BRICK,B-11,230X113X65MM": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.0,
+    "momentum": 0.03955558012748583,
+    "urgency": 3.5655172413793097,
+    "volatility": 0.670974554651104
+   },
+   "exp_move_3m": 0.0,
+   "exp_move_6m": 0.0,
+   "exp_move_12m": 0.0,
+   "momentum": 0.03955558012748583,
+   "volatility": 0.670974554651104,
+   "urgency": 3.5655172413793097,
+   "months_since_last": 16.98423127463863,
+   "cycle_months": 4.763469119579501,
+   "last_price": 112.22,
+   "forecast": {
+    "p50_3": 112.22,
+    "p10_3": 80.87174389237317,
+    "p90_3": 143.56825610762684,
+    "p50_6": 112.22,
+    "p10_6": 71.29226793864075,
+    "p90_6": 153.14773206135925,
+    "p50_12": 112.22,
+    "p10_12": 54.3394462416536,
+    "p90_12": 170.1005537583464
+   },
+   "ratio_q25": 0.9999207481375811,
+   "ratio_q75": 1.072073768021001
+  },
+  "BRICK,HM-13,250/235X120X80MM": {
+   "score": 30.2,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Softening outlook \u2014 defer to late in the cycle to capture the drop.",
+    "Prices expected to soften and stock position allows waiting."
+   ],
+   "inputs": {
+    "exp_move": -0.3469839294075735,
+    "momentum": 0.016162970410816213,
+    "urgency": 0.6516853932584269,
+    "volatility": 0.2651423717456675
+   },
+   "exp_move_3m": -0.3469839294075735,
+   "exp_move_6m": -0.3372985743172104,
+   "exp_move_12m": -0.3174947819677808,
+   "momentum": 0.016162970410816213,
+   "volatility": 0.2651423717456675,
+   "urgency": 0.6516853932584269,
+   "months_since_last": 3.8107752956636003,
+   "cycle_months": 5.847568988173456,
+   "last_price": 304.1666666666667,
+   "forecast": {
+    "p50_3": 198.62572147186307,
+    "p10_3": 169.8568498376253,
+    "p90_3": 227.39459310610084,
+    "p50_6": 201.57168364518185,
+    "p10_6": 161.59401168264063,
+    "p90_6": 241.54935560772307,
+    "p50_12": 207.59533715146668,
+    "p10_12": 149.3688527492395,
+    "p90_12": 265.8218215536939
+   },
+   "ratio_q25": 1.0,
+   "ratio_q75": 1.0581563552758522
+  },
+  "SAND,RIVER, 16-60 BS SIEVE 70%": {
+   "score": 19.8,
+   "label": "HOLD OFF",
+   "colour": "#dc2626",
+   "reasons": [
+    "Prices expected to soften and stock position allows waiting.",
+    "Forecast and recent momentum both point down \u2014 reinforced wait.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.12085899752789236,
+    "momentum": -0.030644345579684464,
+    "urgency": 0.04081632653061224,
+    "volatility": 0.333384920660948
+   },
+   "exp_move_3m": -0.12085899752789236,
+   "exp_move_6m": -0.047978393810775205,
+   "exp_move_12m": -0.0503648599868626,
+   "momentum": -0.030644345579684464,
+   "volatility": 0.333384920660948,
+   "urgency": 0.04081632653061224,
+   "months_since_last": 0.2956636005256242,
+   "cycle_months": 7.243758212877792,
+   "last_price": 405.23922,
+   "forecast": {
+    "p50_3": 356.26241411181496,
+    "p10_3": 142.50496564472598,
+    "p90_3": 570.0198625789039,
+    "p50_6": 385.7964931152686,
+    "p10_6": 154.31859724610746,
+    "p90_6": 617.2743889844298,
+    "p50_12": 384.8294034235146,
+    "p10_12": 153.93176136940588,
+    "p90_12": 615.7270454776235
+   },
+   "ratio_q25": 0.9964485083064382,
+   "ratio_q75": 1.633300796970756
+  },
+  "ROLLER,IDLER,DIA:152.4MM,3/10/30X70268A": {
+   "score": 50.0,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Stable prices, normal cycle position \u2014 proceed on routine timing."
+   ],
+   "inputs": {
+    "exp_move": 0.003287755156955732,
+    "momentum": 0.0019017881645346747,
+    "urgency": 0.75,
+    "volatility": 0.08445838484166002
+   },
+   "exp_move_3m": 0.003287755156955732,
+   "exp_move_6m": 0.006380403446276404,
+   "exp_move_12m": 0.012594328803447094,
+   "momentum": 0.0019017881645346747,
+   "volatility": 0.08445838484166002,
+   "urgency": 0.75,
+   "months_since_last": 2.6609724047306176,
+   "cycle_months": 3.54796320630749,
+   "last_price": 1829.0,
+   "forecast": {
+    "p50_3": 1835.013304182072,
+    "p10_3": 1786.2575210651626,
+    "p90_3": 1883.7690872989804,
+    "p50_6": 1840.6697579032395,
+    "p10_6": 1791.763684415023,
+    "p90_6": 1889.5758313914564,
+    "p50_12": 1852.0350273815047,
+    "p10_12": 1800.732093535648,
+    "p90_12": 1903.3379612273625
+   },
+   "ratio_q25": 1.0,
+   "ratio_q75": 1.048951048951049
+  },
+  "GLOVE,CANVAS": {
+   "score": 66.4,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "Prices expected to rise and the ordering cycle is overdue \u2014 cover now."
+   ],
+   "inputs": {
+    "exp_move": 0.020527905539576233,
+    "momentum": 0.003212187716349944,
+    "urgency": 2.0444444444444443,
+    "volatility": 0.05776745100330817
+   },
+   "exp_move_3m": 0.020527905539576233,
+   "exp_move_6m": 0.041509931603419044,
+   "exp_move_12m": 0.08477702275616665,
+   "momentum": 0.003212187716349944,
+   "volatility": 0.05776745100330817,
+   "urgency": 2.0444444444444443,
+   "months_since_last": 12.089356110381077,
+   "cycle_months": 5.913272010512483,
+   "last_price": 42.76329930145084,
+   "forecast": {
+    "p50_3": 43.64114027007165,
+    "p10_3": 42.53424199887434,
+    "p90_3": 44.74803854126896,
+    "p50_6": 44.538400930590605,
+    "p10_6": 43.231078061715685,
+    "p90_6": 45.84572379946552,
+    "p50_12": 46.38864449945871,
+    "p10_12": 44.46300530002359,
+    "p90_12": 48.314283698893824
+   },
+   "ratio_q25": 1.0,
+   "ratio_q75": 1.042833827893175
+  },
+  "CORED WIRE,CALCIUM SILICATE": {
+   "score": 21.1,
+   "label": "HOLD OFF",
+   "colour": "#dc2626",
+   "reasons": [
+    "Prices expected to soften and stock position allows waiting.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.053096624124240516,
+    "momentum": -0.0007796647547205549,
+    "urgency": 0.42690058479532167,
+    "volatility": 0.2032665473534034
+   },
+   "exp_move_3m": -0.053096624124240516,
+   "exp_move_6m": -0.03812711245602261,
+   "exp_move_12m": 0.06414092732786572,
+   "momentum": -0.0007796647547205549,
+   "volatility": 0.2032665473534034,
+   "urgency": 0.42690058479532167,
+   "months_since_last": 2.3981603153745072,
+   "cycle_months": 5.617608409986859,
+   "last_price": 134.9,
+   "forecast": {
+    "p50_3": 127.73726540563996,
+    "p10_3": 110.52373500829718,
+    "p90_3": 144.95079580298278,
+    "p50_6": 129.75665252968255,
+    "p10_6": 112.27099495368658,
+    "p90_6": 147.24231010567854,
+    "p50_12": 143.5526110965291,
+    "p10_12": 121.74198872537696,
+    "p90_12": 165.36323346768123
+   },
+   "ratio_q25": 0.9753787878787878,
+   "ratio_q75": 1.1196540780415944
+  },
+  "BELT,CONVY,M24,630KN/M,4,5X2MM,800MM": {
+   "score": 37.4,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 3.90602593054976e-16,
+    "momentum": -0.011532109374461403,
+    "urgency": 0.05804749340369394,
+    "volatility": 0.1696025869079569
+   },
+   "exp_move_3m": 3.90602593054976e-16,
+   "exp_move_6m": 3.90602593054976e-16,
+   "exp_move_12m": 3.90602593054976e-16,
+   "momentum": -0.011532109374461403,
+   "volatility": 0.1696025869079569,
+   "urgency": 0.05804749340369394,
+   "months_since_last": 0.36136662286465177,
+   "cycle_months": 6.225361366622864,
+   "last_price": 1164.22,
+   "forecast": {
+    "p50_3": 1164.2200000000005,
+    "p10_3": 965.8511411047616,
+    "p90_3": 1362.5888588952396,
+    "p50_6": 1164.2200000000005,
+    "p10_6": 907.5559045569112,
+    "p90_6": 1420.88409544309,
+    "p50_12": 1164.2200000000005,
+    "p10_12": 801.242155250161,
+    "p90_12": 1527.19784474984
+   },
+   "ratio_q25": 0.8521257861635221,
+   "ratio_q75": 1.0850774266940464
+  },
+  "BRICK,FIRE,230X113X50": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.004279295509842882,
+    "momentum": 0.003690532792532583,
+    "urgency": 5.568075117370892,
+    "volatility": 0.1483215754806428
+   },
+   "exp_move_3m": 0.004279295509842882,
+   "exp_move_6m": 0.009668805969128016,
+   "exp_move_12m": 0.020534751262677134,
+   "momentum": 0.003690532792532583,
+   "volatility": 0.1483215754806428,
+   "urgency": 5.568075117370892,
+   "months_since_last": 38.96189224704336,
+   "cycle_months": 6.9973718791064385,
+   "last_price": 25.0,
+   "forecast": {
+    "p50_3": 25.106982387746072,
+    "p10_3": 23.19347816452352,
+    "p90_3": 27.020486610968625,
+    "p50_6": 25.2417201492282,
+    "p10_6": 23.278277419751195,
+    "p90_6": 27.205162878705192,
+    "p50_12": 25.51336878156693,
+    "p10_12": 22.706758608602147,
+    "p90_12": 28.31997895453171
+   },
+   "ratio_q25": 0.8979129132289247,
+   "ratio_q75": 1.0772091946802442
+  },
+  "BACK UP LINING,TUNDISH F/ BILLET CASTER": {
+   "score": 56.1,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "No urgency yet, but locking volume before a forecast rise protects cost.",
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy."
+   ],
+   "inputs": {
+    "exp_move": 0.04441334036934178,
+    "momentum": 0.002460196169343898,
+    "urgency": 0.023255813953488372,
+    "volatility": 0.20292996584863834
+   },
+   "exp_move_3m": 0.04441334036934178,
+   "exp_move_6m": 0.08983666875246499,
+   "exp_move_12m": 0.14692256955398036,
+   "momentum": 0.002460196169343898,
+   "volatility": 0.20292996584863834,
+   "urgency": 0.023255813953488372,
+   "months_since_last": 0.19710906701708278,
+   "cycle_months": 8.47568988173456,
+   "last_price": 370577.77777777775,
+   "forecast": {
+    "p50_3": 387036.3747555365,
+    "p10_3": 355360.3315244203,
+    "p90_3": 418712.4179866527,
+    "p50_6": 403869.25084702455,
+    "p10_6": 367317.9969385439,
+    "p90_6": 440420.5047555053,
+    "p50_12": 425024.0171084928,
+    "p10_12": 370625.1367688706,
+    "p90_12": 479422.897448115
+   },
+   "ratio_q25": 0.9637571765822471,
+   "ratio_q75": 1.161764705882353
+  },
+  "MORTAR,HIGH ALUMINA,GREEN": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.0045083414437881685,
+    "momentum": -0.002411021305852531,
+    "urgency": 5.047058823529412,
+    "volatility": 0.12991747310808613
+   },
+   "exp_move_3m": -0.0045083414437881685,
+   "exp_move_6m": 0.013359259575801162,
+   "exp_move_12m": 0.018410704231716438,
+   "momentum": -0.002411021305852531,
+   "volatility": 0.12991747310808613,
+   "urgency": 5.047058823529412,
+   "months_since_last": 14.09329829172142,
+   "cycle_months": 2.7923784494086727,
+   "last_price": 100.0,
+   "forecast": {
+    "p50_3": 99.54916585562118,
+    "p10_3": 89.813852004563,
+    "p90_3": 109.28447970667936,
+    "p50_6": 101.33592595758012,
+    "p10_6": 91.42587764019456,
+    "p90_6": 111.24597427496568,
+    "p50_12": 101.84107042317164,
+    "p10_12": 88.33789725228237,
+    "p90_12": 115.34424359406088
+   },
+   "ratio_q25": 0.9035532994923858,
+   "ratio_q75": 1.0946611308817715
+  },
+  "IDLER,RETURN,127MM OD ERW TUBEX1365MM LG": {
+   "score": 63.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Prices expected to rise and the ordering cycle is overdue \u2014 cover now."
+   ],
+   "inputs": {
+    "exp_move": 0.022227192990436836,
+    "momentum": 0.013039548499455343,
+    "urgency": 14.111111111111109,
+    "volatility": 0.4067437771450711
+   },
+   "exp_move_3m": 0.022227192990436836,
+   "exp_move_6m": 0.042080890882481695,
+   "exp_move_12m": 0.08295257140208251,
+   "momentum": 0.013039548499455343,
+   "volatility": 0.4067437771450711,
+   "urgency": 14.111111111111109,
+   "months_since_last": 37.54927726675427,
+   "cycle_months": 2.6609724047306176,
+   "last_price": 3367.0,
+   "forecast": {
+    "p50_3": 3441.838958798801,
+    "p10_3": 3308.536804656675,
+    "p90_3": 3575.141112940926,
+    "p50_6": 3508.686359601316,
+    "p10_6": 3372.795210845425,
+    "p90_6": 3644.577508357207,
+    "p50_12": 3646.301307910812,
+    "p10_12": 3465.9784048584456,
+    "p90_12": 3826.624210963179
+   },
+   "ratio_q25": 0.9363375939536656,
+   "ratio_q75": 1.182845058799257
+  },
+  "BRICK,HM-11,230X113X65MM": {
+   "score": 40.1,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Stable prices, normal cycle position \u2014 proceed on routine timing.",
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy."
+   ],
+   "inputs": {
+    "exp_move": 0.0,
+    "momentum": 0.004966718714290971,
+    "urgency": 0.6628571428571428,
+    "volatility": 0.14682913550230045
+   },
+   "exp_move_3m": 0.0,
+   "exp_move_6m": 0.0,
+   "exp_move_12m": 0.0,
+   "momentum": 0.004966718714290971,
+   "volatility": 0.14682913550230045,
+   "urgency": 0.6628571428571428,
+   "months_since_last": 3.8107752956636003,
+   "cycle_months": 5.7490144546649145,
+   "last_price": 138.04260574251313,
+   "forecast": {
+    "p50_3": 138.04260574251313,
+    "p10_3": 133.99851312133376,
+    "p90_3": 142.08669836369248,
+    "p50_6": 138.04260574251313,
+    "p10_6": 132.5050038593628,
+    "p90_6": 143.58020762566346,
+    "p50_12": 138.04260574251313,
+    "p10_12": 130.21125405633916,
+    "p90_12": 145.8739574286871
+   },
+   "ratio_q25": 1.0,
+   "ratio_q75": 1.0107854396936455
+  },
+  "BLANKET,CERAMIC FIBRE": {
+   "score": 61.1,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "Stock is due but prices are easing \u2014 stagger purchases in smaller lots.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.03539976765116758,
+    "momentum": 0.004568858263018381,
+    "urgency": 1.488721804511278,
+    "volatility": 0.11899933245982638
+   },
+   "exp_move_3m": -0.03539976765116758,
+   "exp_move_6m": -0.03539976765116758,
+   "exp_move_12m": -0.03539976765116758,
+   "momentum": 0.004568858263018381,
+   "volatility": 0.11899933245982638,
+   "urgency": 1.488721804511278,
+   "months_since_last": 6.504599211563732,
+   "cycle_months": 4.369250985545335,
+   "last_price": 1940.0,
+   "forecast": {
+    "p50_3": 1871.324450756735,
+    "p10_3": 1772.8845018674533,
+    "p90_3": 1969.7643996460165,
+    "p50_6": 1871.324450756735,
+    "p10_6": 1732.1093399581985,
+    "p90_6": 2010.5395615552711,
+    "p50_12": 1871.324450756735,
+    "p10_12": 1674.4445529781715,
+    "p90_12": 2068.204348535298
+   },
+   "ratio_q25": 0.9765354716773553,
+   "ratio_q75": 1.064037085182363
+  },
+  "NOZZLE,INNER F/IPV SYSTEM": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.007871919333714195,
+    "momentum": 0.017334125481842447,
+    "urgency": 2.318918918918919,
+    "volatility": 0.7162521875850557
+   },
+   "exp_move_3m": -0.007871919333714195,
+   "exp_move_6m": 0.04541231943490976,
+   "exp_move_12m": 0.16071970475526548,
+   "momentum": 0.017334125481842447,
+   "volatility": 0.7162521875850557,
+   "urgency": 2.318918918918919,
+   "months_since_last": 14.09329829172142,
+   "cycle_months": 6.077529566360052,
+   "last_price": 2174.413,
+   "forecast": {
+    "p50_3": 2157.2961962658205,
+    "p10_3": 1665.7287239005375,
+    "p90_3": 2648.863668631104,
+    "p50_6": 2273.1581377394205,
+    "p10_6": 1751.702003190893,
+    "p90_6": 2794.614272287948,
+    "p50_12": 2523.884015376011,
+    "p10_12": 1705.0940295602306,
+    "p90_12": 3342.674001191792
+   },
+   "ratio_q25": 1.0,
+   "ratio_q75": 1.3835616438356164
+  },
+  "MORTAR,FIRECLAY,HB": {
+   "score": 71.9,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Prices expected to rise and the ordering cycle is overdue \u2014 cover now.",
+    "Upward price outlook with a due-soon ordering cycle \u2014 buy ahead of the rise."
+   ],
+   "inputs": {
+    "exp_move": 0.03833004746925592,
+    "momentum": -0.040753006116886044,
+    "urgency": 1.2394366197183098,
+    "volatility": 0.6374602253417345
+   },
+   "exp_move_3m": 0.03833004746925592,
+   "exp_move_6m": 0.02647755235847897,
+   "exp_move_12m": 0.026722358944760636,
+   "momentum": -0.040753006116886044,
+   "volatility": 0.6374602253417345,
+   "urgency": 1.2394366197183098,
+   "months_since_last": 5.781865965834428,
+   "cycle_months": 4.664914586070959,
+   "last_price": 4.626947121057579,
+   "forecast": {
+    "p50_3": 4.8042982238454535,
+    "p10_3": 1.9217192895381807,
+    "p90_3": 7.686877158152725,
+    "p50_6": 4.749457355715295,
+    "p10_6": 1.899782942286118,
+    "p90_6": 7.599131769144472,
+    "p50_12": 4.750590062844907,
+    "p10_12": 1.9002360251379629,
+    "p90_12": 7.600944100551851
+   },
+   "ratio_q25": 0.9917127071823204,
+   "ratio_q75": 1.2702702702702702
+  },
+  "INFLOW MASS F/SLIDEGATE": {
+   "score": 66.1,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Prices expected to rise and the ordering cycle is overdue \u2014 cover now."
+   ],
+   "inputs": {
+    "exp_move": 0.027148855481749008,
+    "momentum": 0.011881223310967932,
+    "urgency": 4.8474576271186445,
+    "volatility": 0.32952240619359724
+   },
+   "exp_move_3m": 0.027148855481749008,
+   "exp_move_6m": 0.01801831418652848,
+   "exp_move_12m": 2.8622037506271324e-16,
+   "momentum": 0.011881223310967932,
+   "volatility": 0.32952240619359724,
+   "urgency": 4.8474576271186445,
+   "months_since_last": 14.09329829172142,
+   "cycle_months": 2.907358738501971,
+   "last_price": 198.60018298261664,
+   "forecast": {
+    "p50_3": 203.9919506490606,
+    "p10_3": 155.7923702468592,
+    "p90_3": 252.191531051262,
+    "p50_6": 202.17862347709948,
+    "p10_6": 154.08580453260606,
+    "p90_6": 250.2714424215929,
+    "p50_12": 198.6001829826167,
+    "p10_12": 131.79046467376278,
+    "p90_12": 265.40990129147065
+   },
+   "ratio_q25": 1.0,
+   "ratio_q75": 1.3739689800112744
+  },
+  "BRICK,FIRE,230X113X75MM,UT WT:4.00KG": {
+   "score": 79.7,
+   "label": "BUY NOW",
+   "colour": "#16a34a",
+   "reasons": [
+    "Prices expected to rise and the ordering cycle is overdue \u2014 cover now.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.05662559572445152,
+    "momentum": -0.006594625227215125,
+    "urgency": 4.366101694915255,
+    "volatility": 0.1938998380695148
+   },
+   "exp_move_3m": 0.05662559572445152,
+   "exp_move_6m": 0.05519311069163224,
+   "exp_move_12m": 0.13894872186322915,
+   "momentum": -0.006594625227215125,
+   "volatility": 0.1938998380695148,
+   "urgency": 4.366101694915255,
+   "months_since_last": 21.156373193166885,
+   "cycle_months": 4.845597897503285,
+   "last_price": 19.25,
+   "forecast": {
+    "p50_3": 20.34004271769569,
+    "p10_3": 18.23920977518112,
+    "p90_3": 22.440875660210263,
+    "p50_6": 20.31246738081392,
+    "p10_6": 17.43968336909636,
+    "p90_6": 23.185251392531462,
+    "p50_12": 21.92476289586716,
+    "p10_12": 17.53955489889237,
+    "p90_12": 26.30997089284195
+   },
+   "ratio_q25": 0.9798348747212384,
+   "ratio_q75": 1.1692445054945053
+  },
+  "COLLER FOR TRUMPET": {
+   "score": 66.0,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates."
+   ],
+   "inputs": {
+    "exp_move": 0.0008225526059510998,
+    "momentum": 0.0008454160599754883,
+    "urgency": 2.0091954022988507,
+    "volatility": 0.02050501116620335
+   },
+   "exp_move_3m": 0.0008225526059510998,
+   "exp_move_6m": 0.001579309304106129,
+   "exp_move_12m": 0.003094539763165979,
+   "momentum": 0.0008454160599754883,
+   "volatility": 0.02050501116620335,
+   "urgency": 2.0091954022988507,
+   "months_since_last": 14.35611038107753,
+   "cycle_months": 7.145203679369251,
+   "last_price": 385.9688,
+   "forecast": {
+    "p50_3": 386.2862796422558,
+    "p10_3": 382.4234168458332,
+    "p90_3": 390.1491424386784,
+    "p50_6": 386.57836411693467,
+    "p10_6": 382.7125804757653,
+    "p90_6": 390.444147758104,
+    "p50_12": 387.16319579894144,
+    "p10_12": 383.2915638409521,
+    "p90_12": 391.0348277569309
+   },
+   "ratio_q25": 0.9998374908588608,
+   "ratio_q75": 1.0122888269038472
+  },
+  "MTR,SC,415VAC,200L,1500RPM,30KW": {
+   "score": 65.6,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.013316715563879157,
+    "momentum": -0.0002826366382563148,
+    "urgency": 2.4,
+    "volatility": 0.10205659984808521
+   },
+   "exp_move_3m": -0.013316715563879157,
+   "exp_move_6m": -0.013316715563879157,
+   "exp_move_12m": -0.013316715563879157,
+   "momentum": -0.0002826366382563148,
+   "volatility": 0.10205659984808521,
+   "urgency": 2.4,
+   "months_since_last": 7.09592641261498,
+   "cycle_months": 2.9566360052562417,
+   "last_price": 72550.0,
+   "forecast": {
+    "p50_3": 71583.87228584057,
+    "p10_3": 61823.30743215567,
+    "p90_3": 81344.43713952546,
+    "p50_6": 71583.87228584057,
+    "p10_6": 57990.18685106008,
+    "p90_6": 85177.55772062104,
+    "p50_12": 71583.87228584057,
+    "p10_12": 52359.4979813404,
+    "p90_12": 90808.24659034071
+   },
+   "ratio_q25": 0.9033796872274076,
+   "ratio_q75": 1.0698370217026667
+  },
+  "WIRE,WINDING,CU,17.1/2SWG": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.010418316137299304,
+    "momentum": 0.008798453335513611,
+    "urgency": 5.751677852348993,
+    "volatility": 0.13392988215562648
+   },
+   "exp_move_3m": -0.010418316137299304,
+   "exp_move_6m": -0.02083248209146697,
+   "exp_move_12m": -0.03994845398457896,
+   "momentum": 0.008798453335513611,
+   "volatility": 0.13392988215562648,
+   "urgency": 5.751677852348993,
+   "months_since_last": 28.153745072273324,
+   "cycle_months": 4.894875164257556,
+   "last_price": 723.4035854507741,
+   "forecast": {
+    "p50_3": 715.8669382026922,
+    "p10_3": 682.7140020136516,
+    "p90_3": 749.0198743917327,
+    "p50_6": 708.3332932119679,
+    "p10_6": 668.6303229278541,
+    "p90_6": 748.0362634960817,
+    "p50_12": 694.5047306051144,
+    "p10_12": 639.4524202240422,
+    "p90_12": 749.5570409861868
+   },
+   "ratio_q25": 0.9857477307265782,
+   "ratio_q75": 1.0045203415369162
+  },
+  "CABLE,ARM,1.1KV,CU,3C,1.5MM2,XLPE": {
+   "score": 64.1,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "Stock is due but prices are easing \u2014 stagger purchases in smaller lots.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.02641740189390975,
+    "momentum": 0.00014357590041671347,
+    "urgency": 6.207920792079208,
+    "volatility": 0.10208871855702806
+   },
+   "exp_move_3m": -0.02641740189390975,
+   "exp_move_6m": -0.03525735869756746,
+   "exp_move_12m": 0.012754124934134537,
+   "momentum": 0.00014357590041671347,
+   "volatility": 0.10208871855702806,
+   "urgency": 6.207920792079208,
+   "months_since_last": 20.59789750328515,
+   "cycle_months": 3.3180026281208934,
+   "last_price": 57.2539489671932,
+   "forecast": {
+    "p50_3": 55.74144838731346,
+    "p10_3": 51.08739918384596,
+    "p90_3": 60.39549759078096,
+    "p50_6": 55.23532595160465,
+    "p10_6": 48.71326819838449,
+    "p90_6": 61.7573837048248,
+    "p50_12": 57.98417298529335,
+    "p10_12": 48.301568679039065,
+    "p90_12": 67.66677729154763
+   },
+   "ratio_q25": 0.8709113316994443,
+   "ratio_q75": 1.1241831136172904
+  },
+  "MONITOR,CARBON MONOXIDE,0-2000PPM": {
+   "score": 66.0,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates."
+   ],
+   "inputs": {
+    "exp_move": -0.010945892162843954,
+    "momentum": 0.0009814563485407957,
+    "urgency": 3.670103092783505,
+    "volatility": 0.05650256148287273
+   },
+   "exp_move_3m": -0.010945892162843954,
+   "exp_move_6m": -0.02540325585521939,
+   "exp_move_12m": -0.0498471374037105,
+   "momentum": 0.0009814563485407957,
+   "volatility": 0.05650256148287273,
+   "urgency": 3.670103092783505,
+   "months_since_last": 5.847568988173456,
+   "cycle_months": 1.5932982917214191,
+   "last_price": 7590.0,
+   "forecast": {
+    "p50_3": 7506.920678484014,
+    "p10_3": 7297.754101723066,
+    "p90_3": 7716.087255244964,
+    "p50_6": 7397.189288058885,
+    "p10_6": 7105.706985383246,
+    "p90_6": 7688.671590734523,
+    "p50_12": 7211.660227105837,
+    "p10_12": 6809.780855504048,
+    "p90_12": 7613.539598707626
+   },
+   "ratio_q25": 0.95,
+   "ratio_q75": 1.0
+  },
+  "CABLE,ARM,1.1KV,AL,3.5C,50MM2,XLPE": {
+   "score": 19.8,
+   "label": "HOLD OFF",
+   "colour": "#dc2626",
+   "reasons": [
+    "Prices expected to soften and stock position allows waiting.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.13574123812986258,
+    "momentum": 0.010693756209118246,
+    "urgency": 0.22506393861892585,
+    "volatility": 0.17451455388325543
+   },
+   "exp_move_3m": -0.13574123812986258,
+   "exp_move_6m": -0.1233623360953222,
+   "exp_move_12m": -0.09807007810375096,
+   "momentum": 0.010693756209118246,
+   "volatility": 0.17451455388325543,
+   "urgency": 0.22506393861892585,
+   "months_since_last": 1.445466491458607,
+   "cycle_months": 6.422470433639947,
+   "last_price": 248.0,
+   "forecast": {
+    "p50_3": 214.33617294379408,
+    "p10_3": 183.1286528142232,
+    "p90_3": 245.5436930733649,
+    "p50_6": 217.4061406483601,
+    "p10_6": 180.10094296056025,
+    "p90_6": 254.71133833615983,
+    "p50_12": 223.67862063026976,
+    "p10_12": 169.398973849227,
+    "p90_12": 277.95826741131253
+   },
+   "ratio_q25": 0.9064578416648787,
+   "ratio_q75": 1.0344978451556435
+  },
+  "MCCB,100A,3P": {
+   "score": 42.1,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "No urgency yet, but locking volume before a forecast rise protects cost."
+   ],
+   "inputs": {
+    "exp_move": 0.026236024127547074,
+    "momentum": -0.012126893048158715,
+    "urgency": 0.3373493975903615,
+    "volatility": 0.19517121848592317
+   },
+   "exp_move_3m": 0.026236024127547074,
+   "exp_move_6m": 0.029841249297928238,
+   "exp_move_12m": 0.03715365595204278,
+   "momentum": -0.012126893048158715,
+   "volatility": 0.19517121848592317,
+   "urgency": 0.3373493975903615,
+   "months_since_last": 1.3797634691195795,
+   "cycle_months": 4.0900131406044675,
+   "last_price": 8049.235000000001,
+   "forecast": {
+    "p50_3": 8260.414923668297,
+    "p10_3": 6967.145666770796,
+    "p90_3": 9553.6841805658,
+    "p50_6": 8289.43422829261,
+    "p10_6": 6454.05006929276,
+    "p90_6": 10124.81838729246,
+    "p50_12": 8348.293507867142,
+    "p10_12": 5734.238053982749,
+    "p90_12": 10962.348961751535
+   },
+   "ratio_q25": 0.9615384615384616,
+   "ratio_q75": 1.0891382891452708
+  },
+  "PROGRAMMABLE SAFETY HOOTER": {
+   "score": 33.3,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy."
+   ],
+   "inputs": {
+    "exp_move": 0.0027305439562224096,
+    "momentum": -0.0005088246472993962,
+    "urgency": 0.5416666666666666,
+    "volatility": 0.07360234719189832
+   },
+   "exp_move_3m": 0.0027305439562224096,
+   "exp_move_6m": -0.003153979467525941,
+   "exp_move_12m": 0.014347962619131974,
+   "momentum": -0.0005088246472993962,
+   "volatility": 0.07360234719189832,
+   "urgency": 0.5416666666666666,
+   "months_since_last": 1.7082785808147174,
+   "cycle_months": 3.1537450722733245,
+   "last_price": 2897.0,
+   "forecast": {
+    "p50_3": 2904.9103858411763,
+    "p10_3": 2749.852952017515,
+    "p90_3": 3059.967819664838,
+    "p50_6": 2887.8629214825773,
+    "p10_6": 2669.8654655195514,
+    "p90_6": 3105.860377445604,
+    "p50_12": 2938.5660477076253,
+    "p10_12": 2624.858256445113,
+    "p90_12": 3252.2738389701376
+   },
+   "ratio_q25": 0.951048951048951,
+   "ratio_q75": 1.0180623973727423
+  },
+  "MCCB,250A,3P": {
+   "score": 35.2,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "Stable prices, normal cycle position \u2014 proceed on routine timing.",
+    "Upward price outlook with a due-soon ordering cycle \u2014 buy ahead of the rise."
+   ],
+   "inputs": {
+    "exp_move": 0.020610302864050335,
+    "momentum": -0.0025907119769180897,
+    "urgency": 0.5753424657534246,
+    "volatility": 0.05436355945102417
+   },
+   "exp_move_3m": 0.020610302864050335,
+   "exp_move_6m": 0.020610302864050335,
+   "exp_move_12m": 0.020610302864050335,
+   "momentum": -0.0025907119769180897,
+   "volatility": 0.05436355945102417,
+   "urgency": 0.5753424657534246,
+   "months_since_last": 1.3797634691195795,
+   "cycle_months": 2.3981603153745072,
+   "last_price": 12118.215,
+   "forecast": {
+    "p50_3": 12367.975081321678,
+    "p10_3": 11458.348773575144,
+    "p90_3": 13277.601389068212,
+    "p50_6": 12367.975081321678,
+    "p10_6": 11211.50432904116,
+    "p90_6": 13524.445833602196,
+    "p50_12": 12367.975081321678,
+    "p10_12": 10732.478458958753,
+    "p90_12": 14003.4717036846
+   },
+   "ratio_q25": 0.9778959489913703,
+   "ratio_q75": 1.0725641193498925
+  },
+  "SWITCH,TIME,DIGITAL,230V,50HZ": {
+   "score": 61.9,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "No urgency yet, but locking volume before a forecast rise protects cost.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.11256371319807962,
+    "momentum": -0.006162764293566728,
+    "urgency": 0.10666666666666667,
+    "volatility": 0.14916034763990416
+   },
+   "exp_move_3m": 0.11256371319807962,
+   "exp_move_6m": 0.27914351606955506,
+   "exp_move_12m": 0.45310874357307745,
+   "momentum": -0.006162764293566728,
+   "volatility": 0.14916034763990416,
+   "urgency": 0.10666666666666667,
+   "months_since_last": 0.5256241787122208,
+   "cycle_months": 4.92772667542707,
+   "last_price": 1044.1,
+   "forecast": {
+    "p50_3": 1161.6277729501148,
+    "p10_3": 975.8815048274148,
+    "p90_3": 1347.3740410728146,
+    "p50_6": 1335.5537451282223,
+    "p10_6": 1050.1757608040582,
+    "p90_6": 1620.9317294523864,
+    "p50_12": 1517.19083916465,
+    "p10_12": 1058.7172674665624,
+    "p90_12": 1975.6644108627377
+   },
+   "ratio_q25": 0.8444604102612245,
+   "ratio_q75": 1.1484664282105035
+  },
+  "MTR,SC,415V,180L,1500RPM,22KW": {
+   "score": 80.2,
+   "label": "BUY NOW",
+   "colour": "#16a34a",
+   "reasons": [
+    "Prices expected to rise and the ordering cycle is overdue \u2014 cover now.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.16717540891200733,
+    "momentum": -0.007769826660515161,
+    "urgency": 4.133928571428572,
+    "volatility": 0.14707145074100095
+   },
+   "exp_move_3m": 0.16717540891200733,
+   "exp_move_6m": 0.26439255939876205,
+   "exp_move_12m": 0.08640477930546543,
+   "momentum": -0.007769826660515161,
+   "volatility": 0.14707145074100095,
+   "urgency": 4.133928571428572,
+   "months_since_last": 15.210249671484888,
+   "cycle_months": 3.679369250985545,
+   "last_price": 44961.0,
+   "forecast": {
+    "p50_3": 52477.37356009276,
+    "p10_3": 46127.32729934053,
+    "p90_3": 58827.41982084499,
+    "p50_6": 56848.35386312774,
+    "p10_6": 47947.8556676994,
+    "p90_6": 65748.85205855608,
+    "p50_12": 48845.84528235303,
+    "p10_12": 38030.53333611325,
+    "p90_12": 59661.15722859281
+   },
+   "ratio_q25": 0.9041580041580042,
+   "ratio_q75": 1.0974411176243462
+  },
+  "MONITOR,OXYGEN,0-25%": {
+   "score": 66.0,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates."
+   ],
+   "inputs": {
+    "exp_move": -0.003211398643266564,
+    "momentum": -0.006826431989244434,
+    "urgency": 4.341463414634147,
+    "volatility": 0.07422185802328646
+   },
+   "exp_move_3m": -0.003211398643266564,
+   "exp_move_6m": -0.009987570024516597,
+   "exp_move_12m": -0.021380574221270043,
+   "momentum": -0.006826431989244434,
+   "volatility": 0.07422185802328646,
+   "urgency": 4.341463414634147,
+   "months_since_last": 5.847568988173456,
+   "cycle_months": 1.3469119579500657,
+   "last_price": 7600.0,
+   "forecast": {
+    "p50_3": 7575.593370311174,
+    "p10_3": 7425.467283361026,
+    "p90_3": 7725.719457261322,
+    "p50_6": 7524.094467813674,
+    "p10_6": 7313.227405855976,
+    "p90_6": 7734.961529771371,
+    "p50_12": 7437.507635918348,
+    "p10_12": 7142.72837217959,
+    "p90_12": 7732.286899657105
+   },
+   "ratio_q25": 0.976470588235294,
+   "ratio_q75": 1.0228990963855422
+  },
+  "ALARM,ROTA,90-100DB": {
+   "score": 33.3,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Softening outlook \u2014 defer to late in the cycle to capture the drop."
+   ],
+   "inputs": {
+    "exp_move": -0.04983833028558114,
+    "momentum": -0.00201222279583479,
+    "urgency": 0.9411764705882353,
+    "volatility": 0.05939707136551336
+   },
+   "exp_move_3m": -0.04983833028558114,
+   "exp_move_6m": -0.014325381922430958,
+   "exp_move_12m": -0.029946531554898775,
+   "momentum": -0.00201222279583479,
+   "volatility": 0.05939707136551336,
+   "urgency": 0.9411764705882353,
+   "months_since_last": 2.102496714848883,
+   "cycle_months": 2.2339027595269383,
+   "last_price": 2147.0,
+   "forecast": {
+    "p50_3": 2039.9971048768573,
+    "p10_3": 1870.5856946742715,
+    "p90_3": 2209.408515079444,
+    "p50_6": 2116.2434050125407,
+    "p10_6": 1867.704876900036,
+    "p90_6": 2364.7819331250457,
+    "p50_12": 2082.7047967516323,
+    "p10_12": 1739.602669224098,
+    "p90_12": 2425.8069242791667
+   },
+   "ratio_q25": 0.9129417102267572,
+   "ratio_q75": 1.0514361287343097
+  },
+  "SIREN,ELECTRONIC,MM:ES 100": {
+   "score": 50.0,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Stable prices, normal cycle position \u2014 proceed on routine timing.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -3.3974400514491157e-16,
+    "momentum": -0.012227854075798055,
+    "urgency": 0.9922480620155039,
+    "volatility": 0.1469759534919404
+   },
+   "exp_move_3m": -3.3974400514491157e-16,
+   "exp_move_6m": -3.3974400514491157e-16,
+   "exp_move_12m": -3.3974400514491157e-16,
+   "momentum": -0.012227854075798055,
+   "volatility": 0.1469759534919404,
+   "urgency": 0.9922480620155039,
+   "months_since_last": 2.102496714848883,
+   "cycle_months": 2.11892247043364,
+   "last_price": 2677.0,
+   "forecast": {
+    "p50_3": 2676.999999999999,
+    "p10_3": 2462.322381231764,
+    "p90_3": 2891.677618768235,
+    "p50_6": 2676.999999999999,
+    "p10_6": 2373.399999999999,
+    "p90_6": 2980.5999999999995,
+    "p50_12": 2676.999999999999,
+    "p10_12": 2247.6447624635275,
+    "p90_12": 3106.355237536471
+   },
+   "ratio_q25": 0.7935204777339571,
+   "ratio_q75": 1.0199807414540203
+  },
+  "MTR,SC,415V,160ML,3000RPM,15KW": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.0026776876339908375,
+    "momentum": -0.008614642621280111,
+    "urgency": 1.8429319371727748,
+    "volatility": 0.14015206323185836
+   },
+   "exp_move_3m": -0.0026776876339908375,
+   "exp_move_6m": -0.0026776876339908375,
+   "exp_move_12m": -0.0026776876339908375,
+   "momentum": -0.008614642621280111,
+   "volatility": 0.14015206323185836,
+   "urgency": 1.8429319371727748,
+   "months_since_last": 11.563731931668856,
+   "cycle_months": 6.274638633377135,
+   "last_price": 37010.16,
+   "forecast": {
+    "p50_3": 36911.05835223598,
+    "p10_3": 33455.25761906024,
+    "p90_3": 40366.85908541172,
+    "p50_6": 36911.05835223598,
+    "p10_6": 32399.22566912687,
+    "p90_6": 41422.89103534509,
+    "p50_12": 36911.05835223598,
+    "p10_12": 30530.363380624887,
+    "p90_12": 43291.75332384708
+   },
+   "ratio_q25": 0.9380164138501712,
+   "ratio_q75": 1.0438837810496755
+  },
+  "MTR,SC,415V,132M,1440RPM,7.5KW": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.015332181921701804,
+    "momentum": -0.00585494314680088,
+    "urgency": 4.4,
+    "volatility": 0.13038538437285296
+   },
+   "exp_move_3m": 0.015332181921701804,
+   "exp_move_6m": 0.0370284956789821,
+   "exp_move_12m": -0.0372781552763283,
+   "momentum": -0.00585494314680088,
+   "volatility": 0.13038538437285296,
+   "urgency": 4.4,
+   "months_since_last": 15.900131406044677,
+   "cycle_months": 3.6136662286465175,
+   "last_price": 18409.0,
+   "forecast": {
+    "p50_3": 18691.25013699661,
+    "p10_3": 17867.913077744757,
+    "p90_3": 19514.58719624846,
+    "p50_6": 19090.65757695438,
+    "p10_6": 17919.48076093434,
+    "p90_6": 20261.834392974422,
+    "p50_12": 17722.746439518072,
+    "p10_12": 16185.131461946576,
+    "p90_12": 19260.361417089567
+   },
+   "ratio_q25": 0.9669267353951888,
+   "ratio_q75": 1.0357046979865772
+  },
+  "MCCB,125A,3P": {
+   "score": 37.4,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 9.704973951845272e-16,
+    "momentum": 0.042514203391109034,
+    "urgency": 0.43749999999999994,
+    "volatility": 0.2752397481372666
+   },
+   "exp_move_3m": 9.704973951845272e-16,
+   "exp_move_6m": 9.704973951845272e-16,
+   "exp_move_12m": 9.704973951845272e-16,
+   "momentum": 0.042514203391109034,
+   "volatility": 0.2752397481372666,
+   "urgency": 0.43749999999999994,
+   "months_since_last": 1.8396846254927726,
+   "cycle_months": 4.204993429697766,
+   "last_price": 13120.0,
+   "forecast": {
+    "p50_3": 13120.000000000013,
+    "p10_3": 5248.000000000005,
+    "p90_3": 20992.00000000002,
+    "p50_6": 13120.000000000013,
+    "p10_6": 5248.000000000005,
+    "p90_6": 20992.00000000002,
+    "p50_12": 13120.000000000013,
+    "p10_12": 5248.000000000005,
+    "p90_12": 20992.00000000002
+   },
+   "ratio_q25": 0.9749069441664998,
+   "ratio_q75": 1.0692899914456802
+  },
+  "MTR,SC,132M,1000RPM,5.5KW": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -6.679173465078648e-16,
+    "momentum": -0.006013305840423093,
+    "urgency": 1.6609195402298849,
+    "volatility": 0.17626494274254484
+   },
+   "exp_move_3m": -6.679173465078648e-16,
+   "exp_move_6m": -6.679173465078648e-16,
+   "exp_move_12m": -6.679173465078648e-16,
+   "momentum": -0.006013305840423093,
+   "volatility": 0.17626494274254484,
+   "urgency": 1.6609195402298849,
+   "months_since_last": 9.494086727989487,
+   "cycle_months": 5.716162943495401,
+   "last_price": 21787.0,
+   "forecast": {
+    "p50_3": 21786.999999999985,
+    "p10_3": 18857.93957149903,
+    "p90_3": 24716.06042850094,
+    "p50_6": 21786.999999999985,
+    "p10_6": 18616.19907462304,
+    "p90_6": 24957.80092537693,
+    "p50_12": 21786.999999999985,
+    "p10_12": 17302.810327746745,
+    "p90_12": 26271.189672253226
+   },
+   "ratio_q25": 0.9773222310069415,
+   "ratio_q75": 1.0562879563862932
+  },
+  "MTR,SC,415V,112M,1500RPM,3.7KW": {
+   "score": 66.0,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates."
+   ],
+   "inputs": {
+    "exp_move": 3.4050718898275114e-16,
+    "momentum": -0.007793094184839957,
+    "urgency": 5.563218390804598,
+    "volatility": 0.08399632879432564
+   },
+   "exp_move_3m": 3.4050718898275114e-16,
+   "exp_move_6m": 3.4050718898275114e-16,
+   "exp_move_12m": 3.4050718898275114e-16,
+   "momentum": -0.007793094184839957,
+   "volatility": 0.08399632879432564,
+   "urgency": 5.563218390804598,
+   "months_since_last": 15.900131406044677,
+   "cycle_months": 2.8580814717477003,
+   "last_price": 10684.0,
+   "forecast": {
+    "p50_3": 10684.000000000004,
+    "p10_3": 9800.756220374427,
+    "p90_3": 11567.24377962558,
+    "p50_6": 10684.000000000004,
+    "p10_6": 9434.90466797184,
+    "p90_6": 11933.095332028168,
+    "p50_12": 10684.000000000004,
+    "p10_12": 8917.51244074885,
+    "p90_12": 12450.487559251158
+   },
+   "ratio_q25": 0.9298414999692668,
+   "ratio_q75": 1.1087134146341464
+  },
+  "SMPS, 24 V DC, 10A": {
+   "score": 50.0,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Stable prices, normal cycle position \u2014 proceed on routine timing."
+   ],
+   "inputs": {
+    "exp_move": 4.4064665783572104e-16,
+    "momentum": -0.003072370119114465,
+    "urgency": 0.8598726114649682,
+    "volatility": 0.0888950474344752
+   },
+   "exp_move_3m": 4.4064665783572104e-16,
+   "exp_move_6m": 4.4064665783572104e-16,
+   "exp_move_12m": 4.4064665783572104e-16,
+   "momentum": -0.003072370119114465,
+   "volatility": 0.0888950474344752,
+   "urgency": 0.8598726114649682,
+   "months_since_last": 4.434954007884363,
+   "cycle_months": 5.157687253613666,
+   "last_price": 3096.0,
+   "forecast": {
+    "p50_3": 3096.0000000000014,
+    "p10_3": 3059.7887317013387,
+    "p90_3": 3132.2112682986635,
+    "p50_6": 3096.0000000000014,
+    "p10_6": 3054.093599963553,
+    "p90_6": 3137.9064000364497,
+    "p50_12": 3096.0000000000014,
+    "p10_12": 3036.7354007182244,
+    "p90_12": 3155.264599281779
+   },
+   "ratio_q25": 0.9060586790831129,
+   "ratio_q75": 1.0205226832047334
+  },
+  "BOX PANEL,SIZE:750(A) X 500(B) X 200(C)": {
+   "score": 29.4,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Softening outlook \u2014 defer to late in the cycle to capture the drop.",
+    "Prices expected to soften and stock position allows waiting.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.05322279793252373,
+    "momentum": 0.005077975970271188,
+    "urgency": 0.6787878787878787,
+    "volatility": 0.11241898649121396
+   },
+   "exp_move_3m": -0.05322279793252373,
+   "exp_move_6m": -0.05322279793252373,
+   "exp_move_12m": -0.05322279793252373,
+   "momentum": 0.005077975970271188,
+   "volatility": 0.11241898649121396,
+   "urgency": 0.6787878787878787,
+   "months_since_last": 1.8396846254927726,
+   "cycle_months": 2.7102496714848883,
+   "last_price": 3373.63,
+   "forecast": {
+    "p50_3": 3194.0759722109,
+    "p10_3": 2958.862628050905,
+    "p90_3": 3429.2893163708945,
+    "p50_6": 3194.0759722109,
+    "p10_6": 2861.434070848705,
+    "p90_6": 3526.7178735730954,
+    "p50_12": 3194.0759722109,
+    "p10_12": 2723.6492838909103,
+    "p90_12": 3664.50266053089
+   },
+   "ratio_q25": 0.9507828949354027,
+   "ratio_q75": 1.0822131631033014
+  },
+  "BOX PANEL,SIZE:500 AX400 BX200 C": {
+   "score": 35.8,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Softening outlook \u2014 defer to late in the cycle to capture the drop.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.061043221592220996,
+    "momentum": -0.0004709606663553796,
+    "urgency": 0.9655172413793104,
+    "volatility": 0.1167729476605595
+   },
+   "exp_move_3m": -0.061043221592220996,
+   "exp_move_6m": -0.0737628683420076,
+   "exp_move_12m": -0.09257986378858941,
+   "momentum": -0.0004709606663553796,
+   "volatility": 0.1167729476605595,
+   "urgency": 0.9655172413793104,
+   "months_since_last": 1.8396846254927726,
+   "cycle_months": 1.9053876478318001,
+   "last_price": 2216.25,
+   "forecast": {
+    "p50_3": 2080.96296014624,
+    "p10_3": 1666.1601214130394,
+    "p90_3": 2495.765798879441,
+    "p50_6": 2052.7730430370257,
+    "p10_6": 1474.0999308664443,
+    "p90_6": 2631.446155207607,
+    "p50_12": 2011.0698768785387,
+    "p10_12": 1209.3280777247248,
+    "p90_12": 2812.8116760323524
+   },
+   "ratio_q25": 0.9472703472703472,
+   "ratio_q75": 1.118030977867249
+  },
+  "BOX PANEL,SIZE:600(A) X 450(B) X 200(C)": {
+   "score": 66.0,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates."
+   ],
+   "inputs": {
+    "exp_move": -0.0001902089581914979,
+    "momentum": 0.004363536648850265,
+    "urgency": 3.359550561797753,
+    "volatility": 0.07768549411488453
+   },
+   "exp_move_3m": -0.0001902089581914979,
+   "exp_move_6m": 0.03814123533773046,
+   "exp_move_12m": 1.7203359561684855e-16,
+   "momentum": 0.004363536648850265,
+   "volatility": 0.07768549411488453,
+   "urgency": 3.359550561797753,
+   "months_since_last": 9.822601839684625,
+   "cycle_months": 2.923784494086728,
+   "last_price": 2643.3636363636365,
+   "forecast": {
+    "p50_3": 2642.8608449202425,
+    "p10_3": 2415.613587300996,
+    "p90_3": 2870.1081025394897,
+    "p50_6": 2744.184790901381,
+    "p10_6": 2410.4874814349373,
+    "p90_6": 3077.8821003678245,
+    "p50_12": 2643.363636363637,
+    "p10_12": 2188.7826557504063,
+    "p90_12": 3097.944616976868
+   },
+   "ratio_q25": 0.9557072332818948,
+   "ratio_q75": 1.0483354673495517
+  },
+  "MTR,SC,415VAC,100L,1500RPM,2.2KW": {
+   "score": 52.8,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Stable prices, normal cycle position \u2014 proceed on routine timing.",
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates."
+   ],
+   "inputs": {
+    "exp_move": 1.9942872530927053e-16,
+    "momentum": -0.0012703074267583524,
+    "urgency": 1.072340425531915,
+    "volatility": 0.11976261546305354
+   },
+   "exp_move_3m": 1.9942872530927053e-16,
+   "exp_move_6m": 1.9942872530927053e-16,
+   "exp_move_12m": 1.9942872530927053e-16,
+   "momentum": -0.0012703074267583524,
+   "volatility": 0.11976261546305354,
+   "urgency": 1.072340425531915,
+   "months_since_last": 4.139290407358739,
+   "cycle_months": 3.860052562417871,
+   "last_price": 9121.0,
+   "forecast": {
+    "p50_3": 9121.000000000002,
+    "p10_3": 8953.858801976934,
+    "p90_3": 9288.14119802307,
+    "p50_6": 9121.000000000002,
+    "p10_6": 8888.219940323417,
+    "p90_6": 9353.780059676586,
+    "p50_12": 9121.000000000002,
+    "p10_12": 8791.799282555357,
+    "p90_12": 9450.200717444646
+   },
+   "ratio_q25": 0.9722613347224169,
+   "ratio_q75": 1.0965753266501668
+  },
+  "FLASH BACK ARRESTOR F/OXYGEN": {
+   "score": 50.0,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [],
+   "inputs": {
+    "exp_move": -5.12391381280523e-16,
+    "momentum": -0.0009429416664891565,
+    "urgency": 157.16666666666666,
+    "volatility": 0.013671204296837288
+   },
+   "exp_move_3m": -5.12391381280523e-16,
+   "exp_move_6m": -5.12391381280523e-16,
+   "exp_move_12m": -5.12391381280523e-16,
+   "momentum": -0.0009429416664891565,
+   "volatility": 0.013671204296837288,
+   "urgency": 157.16666666666666,
+   "months_since_last": 92.93692509855452,
+   "cycle_months": 0.5913272010512484,
+   "last_price": 3550.0,
+   "forecast": {
+    "p50_3": 3549.999999999998,
+    "p10_3": 3514.499999999998,
+    "p90_3": 3585.499999999998,
+    "p50_6": 3549.999999999998,
+    "p10_6": 3507.0882045554376,
+    "p90_6": 3592.9117954445587,
+    "p50_12": 3549.999999999998,
+    "p10_12": 3489.31355689652,
+    "p90_12": 3610.686443103477
+   },
+   "ratio_q25": 0.9213050069914865,
+   "ratio_q75": 0.9912406041775016
+  },
+  "FLASH BACK ARRESTOR F/ACETYLENE": {
+   "score": 50.0,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [],
+   "inputs": {
+    "exp_move": -5.12391381280523e-16,
+    "momentum": -0.0009429416664891565,
+    "urgency": 157.16666666666666,
+    "volatility": 0.013671204296837288
+   },
+   "exp_move_3m": -5.12391381280523e-16,
+   "exp_move_6m": -5.12391381280523e-16,
+   "exp_move_12m": -5.12391381280523e-16,
+   "momentum": -0.0009429416664891565,
+   "volatility": 0.013671204296837288,
+   "urgency": 157.16666666666666,
+   "months_since_last": 92.93692509855452,
+   "cycle_months": 0.5913272010512484,
+   "last_price": 3550.0,
+   "forecast": {
+    "p50_3": 3549.999999999998,
+    "p10_3": 3514.499999999998,
+    "p90_3": 3585.499999999998,
+    "p50_6": 3549.999999999998,
+    "p10_6": 3507.0882045554376,
+    "p90_6": 3592.9117954445587,
+    "p50_12": 3549.999999999998,
+    "p10_12": 3489.31355689652,
+    "p90_12": 3610.686443103477
+   },
+   "ratio_q25": 0.9213050069914865,
+   "ratio_q75": 0.9936302976475144
+  },
+  "MCB,415VAC,63A,3P,10KA": {
+   "score": 56.4,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Upward price outlook with a due-soon ordering cycle \u2014 buy ahead of the rise.",
+    "Stable prices, normal cycle position \u2014 proceed on routine timing.",
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy."
+   ],
+   "inputs": {
+    "exp_move": 0.03857512531325658,
+    "momentum": -0.002464460102202153,
+    "urgency": 0.7123287671232876,
+    "volatility": 0.059448517643213954
+   },
+   "exp_move_3m": 0.03857512531325658,
+   "exp_move_6m": 0.061591726252394126,
+   "exp_move_12m": 0.06145580207753028,
+   "momentum": -0.002464460102202153,
+   "volatility": 0.059448517643213954,
+   "urgency": 0.7123287671232876,
+   "months_since_last": 1.7082785808147174,
+   "cycle_months": 2.3981603153745072,
+   "last_price": 650.0,
+   "forecast": {
+    "p50_3": 675.0738314536168,
+    "p10_3": 635.6867984071224,
+    "p90_3": 714.460864500111,
+    "p50_6": 690.0346220640562,
+    "p10_6": 633.0985013403792,
+    "p90_6": 746.9707427877331,
+    "p50_12": 689.9462713503947,
+    "p10_12": 609.436746839665,
+    "p90_12": 770.4557958611243
+   },
+   "ratio_q25": 0.978746266427718,
+   "ratio_q75": 1.0721208059894631
+  },
+  "BOX PANEL,SIZE:300(A) X 350(B) X 175(C)": {
+   "score": 31.9,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Stable prices, normal cycle position \u2014 proceed on routine timing.",
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "Softening outlook \u2014 defer to late in the cycle to capture the drop."
+   ],
+   "inputs": {
+    "exp_move": -0.027974915435986077,
+    "momentum": -0.00012189549518469958,
+    "urgency": 0.6588235294117647,
+    "volatility": 0.08497583235617218
+   },
+   "exp_move_3m": -0.027974915435986077,
+   "exp_move_6m": -0.027974915435986077,
+   "exp_move_12m": -0.027974915435986077,
+   "momentum": -0.00012189549518469958,
+   "volatility": 0.08497583235617218,
+   "urgency": 0.6588235294117647,
+   "months_since_last": 1.8396846254927726,
+   "cycle_months": 2.7923784494086727,
+   "last_price": 1260.8,
+   "forecast": {
+    "p50_3": 1225.5292266183087,
+    "p10_3": 1183.6863157524433,
+    "p90_3": 1267.372137484174,
+    "p50_6": 1225.5292266183087,
+    "p10_6": 1166.3544145826331,
+    "p90_6": 1284.7040386539843,
+    "p50_12": 1225.5292266183087,
+    "p10_12": 1141.8434048865777,
+    "p90_12": 1309.2150483500398
+   },
+   "ratio_q25": 0.9546293373428921,
+   "ratio_q75": 1.0700952380952382
+  },
+  "MPCB,16A": {
+   "score": 51.0,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Stable prices, normal cycle position \u2014 proceed on routine timing.",
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates."
+   ],
+   "inputs": {
+    "exp_move": -2.1082399206604733e-16,
+    "momentum": -0.0011212268519168696,
+    "urgency": 1.05685618729097,
+    "volatility": 0.20786982885079885
+   },
+   "exp_move_3m": -2.1082399206604733e-16,
+   "exp_move_6m": -2.1082399206604733e-16,
+   "exp_move_12m": -2.1082399206604733e-16,
+   "momentum": -0.0011212268519168696,
+   "volatility": 0.20786982885079885,
+   "urgency": 1.05685618729097,
+   "months_since_last": 5.19053876478318,
+   "cycle_months": 4.911300919842312,
+   "last_price": 2157.0,
+   "forecast": {
+    "p50_3": 2156.9999999999995,
+    "p10_3": 2093.5946516728395,
+    "p90_3": 2220.40534832716,
+    "p50_6": 2156.9999999999995,
+    "p10_6": 2092.994452438056,
+    "p90_6": 2221.005547561944,
+    "p50_12": 2156.9999999999995,
+    "p10_12": 2066.482486570781,
+    "p90_12": 2247.517513429217
+   },
+   "ratio_q25": 0.7988888888888889,
+   "ratio_q75": 1.0202460298212896
+  },
+  "BOX PANEL,SIZE:225(A) X 225(B) X 100(C)": {
+   "score": 50.0,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Stable prices, normal cycle position \u2014 proceed on routine timing."
+   ],
+   "inputs": {
+    "exp_move": -0.014188474687751874,
+    "momentum": -0.001234552173322621,
+    "urgency": 0.7999999999999999,
+    "volatility": 0.08188677557996002
+   },
+   "exp_move_3m": -0.014188474687751874,
+   "exp_move_6m": -0.02085660986357585,
+   "exp_move_12m": -0.006163570628606411,
+   "momentum": -0.001234552173322621,
+   "volatility": 0.08188677557996002,
+   "urgency": 0.7999999999999999,
+   "months_since_last": 1.8396846254927726,
+   "cycle_months": 2.299605781865966,
+   "last_price": 640.25,
+   "forecast": {
+    "p50_3": 631.1658290811669,
+    "p10_3": 556.0676711172396,
+    "p90_3": 706.2639870450942,
+    "p50_6": 626.8965555348456,
+    "p10_6": 521.4101029485751,
+    "p90_6": 732.3830081211161,
+    "p50_12": 636.3037739050347,
+    "p10_12": 484.8847992899871,
+    "p90_12": 787.7227485200824
+   },
+   "ratio_q25": 0.9464527700278995,
+   "ratio_q75": 1.1096841802111532
+  },
+  "BOX PANEL,SIZE:300(A) X 200(B) X 150(C)": {
+   "score": 36.9,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Stable prices, normal cycle position \u2014 proceed on routine timing."
+   ],
+   "inputs": {
+    "exp_move": -0.021492907723865504,
+    "momentum": 0.003946599046148243,
+    "urgency": 0.5628140703517588,
+    "volatility": 0.20732804440872574
+   },
+   "exp_move_3m": -0.021492907723865504,
+   "exp_move_6m": -0.021492907723865504,
+   "exp_move_12m": -0.021492907723865504,
+   "momentum": 0.003946599046148243,
+   "volatility": 0.20732804440872574,
+   "urgency": 0.5628140703517588,
+   "months_since_last": 1.8396846254927726,
+   "cycle_months": 3.2687253613666227,
+   "last_price": 1004.7,
+   "forecast": {
+    "p50_3": 983.1060756098324,
+    "p10_3": 905.0693464314768,
+    "p90_3": 1061.1428047881882,
+    "p50_6": 983.1060756098324,
+    "p10_6": 872.7454748425655,
+    "p90_6": 1093.4666763770997,
+    "p50_12": 983.1060756098324,
+    "p10_12": 827.032617253121,
+    "p90_12": 1139.179533966544
+   },
+   "ratio_q25": 0.92,
+   "ratio_q75": 1.1477477477477478
+  },
+  "BOX PANEL,SIZE:400(A) X 410(B) X 280(C)": {
+   "score": 62.2,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.01740908629424034,
+    "momentum": 0.0016018832989027336,
+    "urgency": 2.0134228187919465,
+    "volatility": 0.17311182315053017
+   },
+   "exp_move_3m": -0.01740908629424034,
+   "exp_move_6m": -0.06719604885779011,
+   "exp_move_12m": -0.038540404432524156,
+   "momentum": 0.0016018832989027336,
+   "volatility": 0.17311182315053017,
+   "urgency": 2.0134228187919465,
+   "months_since_last": 9.85545335085414,
+   "cycle_months": 4.894875164257556,
+   "last_price": 1614.0,
+   "forecast": {
+    "p50_3": 1585.901734721096,
+    "p10_3": 1158.699041606748,
+    "p90_3": 2013.104427835444,
+    "p50_6": 1505.5455771435268,
+    "p10_6": 932.00174612041,
+    "p90_6": 2079.089408166644,
+    "p50_12": 1551.795787245906,
+    "p10_12": 715.7649979971167,
+    "p90_12": 2387.826576494695
+   },
+   "ratio_q25": 0.9242886017469141,
+   "ratio_q75": 1.1862940423699757
+  },
+  "STARTER,DOL,OLR RANGE:6.0-9.3A,+/-10%": {
+   "score": 34.1,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Softening outlook \u2014 defer to late in the cycle to capture the drop.",
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Prices expected to soften and stock position allows waiting."
+   ],
+   "inputs": {
+    "exp_move": -0.06335858137197306,
+    "momentum": -0.00014029496441214358,
+    "urgency": 0.7017543859649124,
+    "volatility": 0.286203234675881
+   },
+   "exp_move_3m": -0.06335858137197306,
+   "exp_move_6m": 0.10409649406473026,
+   "exp_move_12m": 0.15069511029407406,
+   "momentum": -0.00014029496441214358,
+   "volatility": 0.286203234675881,
+   "urgency": 0.7017543859649124,
+   "months_since_last": 2.628120893561104,
+   "cycle_months": 3.7450722733245727,
+   "last_price": 1295.0,
+   "forecast": {
+    "p50_3": 1212.9506371232949,
+    "p10_3": 993.448042281785,
+    "p90_3": 1432.4532319648044,
+    "p50_6": 1429.8049598138257,
+    "p10_6": 1063.883121786117,
+    "p90_6": 1795.7267978415343,
+    "p50_12": 1490.150167830826,
+    "p10_12": 950.817702796424,
+    "p90_12": 2029.482632865228
+   },
+   "ratio_q25": 0.9296,
+   "ratio_q75": 1.1041777423356374
+  },
+  "STARTER,DOL,OLR RANGE:3.8-6.0A,+/-10%": {
+   "score": 42.6,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Stable prices, normal cycle position \u2014 proceed on routine timing.",
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy."
+   ],
+   "inputs": {
+    "exp_move": 0.0013369120302799008,
+    "momentum": -0.010705776589022793,
+    "urgency": 0.7017543859649124,
+    "volatility": 0.22390310306203784
+   },
+   "exp_move_3m": 0.0013369120302799008,
+   "exp_move_6m": 0.009322739516714185,
+   "exp_move_12m": 0.013083672442659906,
+   "momentum": -0.010705776589022793,
+   "volatility": 0.22390310306203784,
+   "urgency": 0.7017543859649124,
+   "months_since_last": 2.628120893561104,
+   "cycle_months": 3.7450722733245727,
+   "last_price": 1295.0,
+   "forecast": {
+    "p50_3": 1296.7313010792125,
+    "p10_3": 1241.566405498526,
+    "p90_3": 1351.8961966598993,
+    "p50_6": 1307.0729476741449,
+    "p10_6": 1228.4358220996148,
+    "p90_6": 1385.7100732486747,
+    "p50_12": 1311.9433558132446,
+    "p10_12": 1200.3192773769792,
+    "p90_12": 1423.56743424951
+   },
+   "ratio_q25": 0.9184,
+   "ratio_q75": 1.1296296296296295
+  },
+  "TERMINAL END,TUBULAR,CU,95MM2": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.0041586629080634695,
+    "momentum": -0.00019390038965945157,
+    "urgency": 2.674897119341564,
+    "volatility": 0.14771253155119432
+   },
+   "exp_move_3m": 0.0041586629080634695,
+   "exp_move_6m": 0.012338751389258974,
+   "exp_move_12m": 0.02889938137211969,
+   "momentum": -0.00019390038965945157,
+   "volatility": 0.14771253155119432,
+   "urgency": 2.674897119341564,
+   "months_since_last": 10.676741130091983,
+   "cycle_months": 3.991458607095926,
+   "last_price": 61.5,
+   "forecast": {
+    "p50_3": 61.7557577688459,
+    "p10_3": 59.169196139534975,
+    "p90_3": 64.34231939815683,
+    "p50_6": 62.25883321043943,
+    "p10_6": 58.884888373974505,
+    "p90_6": 65.63277804690433,
+    "p50_12": 63.27731195438536,
+    "p10_12": 58.42777782570343,
+    "p90_12": 68.12684608306728
+   },
+   "ratio_q25": 0.9667234273125322,
+   "ratio_q75": 1.0756382978723402
+  },
+  "CABLE TIE,TYPE:6/6,DIA:101.6MM": {
+   "score": 61.9,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "No urgency yet, but locking volume before a forecast rise protects cost.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.09936776196773472,
+    "momentum": -0.005598942594426138,
+    "urgency": 0.18571428571428572,
+    "volatility": 0.16235866683314149
+   },
+   "exp_move_3m": 0.09936776196773472,
+   "exp_move_6m": 0.07504745294398063,
+   "exp_move_12m": 0.019857597967551075,
+   "momentum": -0.005598942594426138,
+   "volatility": 0.16235866683314149,
+   "urgency": 0.18571428571428572,
+   "months_since_last": 1.281208935611038,
+   "cycle_months": 6.898817345597897,
+   "last_price": 2.38,
+   "forecast": {
+    "p50_3": 2.6164952734832085,
+    "p10_3": 2.3994911948806315,
+    "p90_3": 2.8334993520857856,
+    "p50_6": 2.5586129380066738,
+    "p10_6": 2.344980446546736,
+    "p90_6": 2.7722454294666123,
+    "p50_12": 2.4272610831627714,
+    "p10_12": 2.140649192221562,
+    "p90_12": 2.7138729741039804
+   },
+   "ratio_q25": 0.8998824693801806,
+   "ratio_q75": 1.1456014558689718
+  },
+  "SLING,WEB,POLYESTER,FLAT WOVEN, 8M, 5T": {
+   "score": 66.0,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "No urgency yet, but locking volume before a forecast rise protects cost."
+   ],
+   "inputs": {
+    "exp_move": 0.07055962459340429,
+    "momentum": 0.005963295194212068,
+    "urgency": 0.26540284360189575,
+    "volatility": 0.08559516729873526
+   },
+   "exp_move_3m": 0.07055962459340429,
+   "exp_move_6m": 0.072095565273289,
+   "exp_move_12m": 0.0070965168595495814,
+   "momentum": 0.005963295194212068,
+   "volatility": 0.08559516729873526,
+   "urgency": 0.26540284360189575,
+   "months_since_last": 0.9198423127463863,
+   "cycle_months": 3.4658344283837055,
+   "last_price": 2290.0,
+   "forecast": {
+    "p50_3": 2451.581540318896,
+    "p10_3": 2353.3213176742133,
+    "p90_3": 2549.8417629635783,
+    "p50_6": 2455.098844475832,
+    "p10_6": 2334.0975053718507,
+    "p90_6": 2576.100183579813,
+    "p50_12": 2306.2510236083685,
+    "p10_12": 2145.5040634635843,
+    "p90_12": 2466.9979837531528
+   },
+   "ratio_q25": 0.9261189702023223,
+   "ratio_q75": 1.0337727909809413
+  },
+  "SLING,WEB,POLYESTER,FLAT WOVEN, 5M, 3T": {
+   "score": 34.8,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.0041663709530088125,
+    "momentum": 0.0060409323708832865,
+    "urgency": 0.3758389261744966,
+    "volatility": 0.10836074930007632
+   },
+   "exp_move_3m": -0.0041663709530088125,
+   "exp_move_6m": 0.0254788046204364,
+   "exp_move_12m": -2.583791766400364e-16,
+   "momentum": 0.0060409323708832865,
+   "volatility": 0.10836074930007632,
+   "urgency": 0.3758389261744966,
+   "months_since_last": 0.9198423127463863,
+   "cycle_months": 2.447437582128778,
+   "last_price": 880.0,
+   "forecast": {
+    "p50_3": 876.3335935613522,
+    "p10_3": 783.5395837529475,
+    "p90_3": 969.127603369757,
+    "p50_6": 902.421348065984,
+    "p10_6": 782.9758309150341,
+    "p90_6": 1021.8668652169338,
+    "p50_12": 879.9999999999998,
+    "p10_12": 715.2755127083635,
+    "p90_12": 1044.724487291636
+   },
+   "ratio_q25": 0.8980352484547509,
+   "ratio_q75": 1.0430677445969607
+  },
+  "SWITCH,SOCKET,FUSE&INDICATOR,6&16A": {
+   "score": 61.9,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "No urgency yet, but locking volume before a forecast rise protects cost.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.07846725351828818,
+    "momentum": -0.0008796780717996287,
+    "urgency": 0.025078369905956115,
+    "volatility": 0.21736890262472047
+   },
+   "exp_move_3m": 0.07846725351828818,
+   "exp_move_6m": 0.08279723967971621,
+   "exp_move_12m": 0.09150943576328674,
+   "momentum": -0.0008796780717996287,
+   "volatility": 0.21736890262472047,
+   "urgency": 0.025078369905956115,
+   "months_since_last": 0.1314060446780552,
+   "cycle_months": 5.23981603153745,
+   "last_price": 147.0,
+   "forecast": {
+    "p50_3": 158.53468626718836,
+    "p10_3": 113.63860467012846,
+    "p90_3": 203.43076786424828,
+    "p50_6": 159.17119423291828,
+    "p10_6": 113.16535056131816,
+    "p90_6": 205.1770379045184,
+    "p50_12": 160.45188705720315,
+    "p10_12": 94.86630885739557,
+    "p90_12": 226.03746525701075
+   },
+   "ratio_q25": 0.7642232047013445,
+   "ratio_q75": 1.0854495106831554
+  },
+  "MCB,415VAC,20A,2P,10KA,MTG:DIN RAIL": {
+   "score": 64.0,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Prices expected to rise and the ordering cycle is overdue \u2014 cover now."
+   ],
+   "inputs": {
+    "exp_move": 0.023486327252812574,
+    "momentum": 0.008405458137799174,
+    "urgency": 7.206349206349206,
+    "volatility": 0.40169409903087067
+   },
+   "exp_move_3m": 0.023486327252812574,
+   "exp_move_6m": 0.1195195403427789,
+   "exp_move_12m": 0.06702274549004085,
+   "momentum": 0.008405458137799174,
+   "volatility": 0.40169409903087067,
+   "urgency": 7.206349206349206,
+   "months_since_last": 14.914586070959263,
+   "cycle_months": 2.0696452036793693,
+   "last_price": 325.67,
+   "forecast": {
+    "p50_3": 333.3187921964235,
+    "p10_3": 170.0498505562981,
+    "p90_3": 496.58773383654886,
+    "p50_6": 364.5939287034328,
+    "p10_6": 186.0055434654776,
+    "p90_6": 543.182313941388,
+    "p50_12": 347.4972975237416,
+    "p10_12": 177.28332424115806,
+    "p90_12": 517.7112708063252
+   },
+   "ratio_q25": 0.6586206896551724,
+   "ratio_q75": 1.0690909090909089
+  },
+  "MCB,415VAC,20A,2P,10KA": {
+   "score": 66.0,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates."
+   ],
+   "inputs": {
+    "exp_move": 0.010071359471990704,
+    "momentum": -0.003162757384133277,
+    "urgency": 2.5353535353535355,
+    "volatility": 0.07144429478763806
+   },
+   "exp_move_3m": 0.010071359471990704,
+   "exp_move_6m": 0.010071359471990704,
+   "exp_move_12m": 0.010071359471990704,
+   "momentum": -0.003162757384133277,
+   "volatility": 0.07144429478763806,
+   "urgency": 2.5353535353535355,
+   "months_since_last": 8.245729303547963,
+   "cycle_months": 3.252299605781866,
+   "last_price": 259.0,
+   "forecast": {
+    "p50_3": 261.6084821032456,
+    "p10_3": 252.39959892544115,
+    "p90_3": 270.81736528105006,
+    "p50_6": 261.6084821032456,
+    "p10_6": 248.58515461888504,
+    "p90_6": 274.63180958760614,
+    "p50_12": 261.6084821032456,
+    "p10_12": 243.19071574763663,
+    "p90_12": 280.0262484588545
+   },
+   "ratio_q25": 0.9257708628005659,
+   "ratio_q75": 1.0479154433352909
+  },
+  "TERMINAL END,TUBULAR,CU,50MM2": {
+   "score": 80.2,
+   "label": "BUY NOW",
+   "colour": "#16a34a",
+   "reasons": [
+    "Prices expected to rise and the ordering cycle is overdue \u2014 cover now.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.21129454132397943,
+    "momentum": -0.0005464425058141181,
+    "urgency": 3.1862745098039214,
+    "volatility": 0.1520993720803373
+   },
+   "exp_move_3m": 0.21129454132397943,
+   "exp_move_6m": 0.31224451547546955,
+   "exp_move_12m": 0.03449483906806271,
+   "momentum": -0.0005464425058141181,
+   "volatility": 0.1520993720803373,
+   "urgency": 3.1862745098039214,
+   "months_since_last": 10.676741130091983,
+   "cycle_months": 3.350854139290407,
+   "last_price": 27.0,
+   "forecast": {
+    "p50_3": 32.704952615747445,
+    "p10_3": 27.061068835466305,
+    "p90_3": 38.34883639602859,
+    "p50_6": 35.43060191783768,
+    "p10_6": 26.78374911064705,
+    "p90_6": 44.077454725028296,
+    "p50_12": 27.931360654837693,
+    "p10_12": 18.29114773582452,
+    "p90_12": 37.57157357385088
+   },
+   "ratio_q25": 0.9331081081081081,
+   "ratio_q75": 1.0742267097099159
+  },
+  "SLING,WEB,POLYESTER,FLAT WOVEN, 4M, 2T": {
+   "score": 45.4,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "No urgency yet, but locking volume before a forecast rise protects cost."
+   ],
+   "inputs": {
+    "exp_move": 0.031832204146137175,
+    "momentum": 0.005442162961734041,
+    "urgency": 0.3835616438356164,
+    "volatility": 0.09342933097190771
+   },
+   "exp_move_3m": 0.031832204146137175,
+   "exp_move_6m": 0.04757444132812768,
+   "exp_move_12m": -3.480209318008654e-16,
+   "momentum": 0.005442162961734041,
+   "volatility": 0.09342933097190771,
+   "urgency": 0.3835616438356164,
+   "months_since_last": 0.9198423127463863,
+   "cycle_months": 2.3981603153745072,
+   "last_price": 490.0,
+   "forecast": {
+    "p50_3": 505.5977800316072,
+    "p10_3": 465.09730450243336,
+    "p90_3": 546.098255560781,
+    "p50_6": 513.3114762507826,
+    "p10_6": 461.9135080836773,
+    "p90_6": 564.7094444178878,
+    "p50_12": 489.99999999999983,
+    "p10_12": 420.61332847316646,
+    "p90_12": 559.3866715268333
+   },
+   "ratio_q25": 0.919977028786606,
+   "ratio_q75": 1.0530083296147552
+  },
+  "MCB,415VAC,16A,2P,10KA": {
+   "score": 66.0,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Upward price outlook with a due-soon ordering cycle \u2014 buy ahead of the rise."
+   ],
+   "inputs": {
+    "exp_move": 0.05567991799073487,
+    "momentum": -0.005726145781281091,
+    "urgency": 0.8253968253968254,
+    "volatility": 0.06515516495216353
+   },
+   "exp_move_3m": 0.05567991799073487,
+   "exp_move_6m": 0.0917864542457575,
+   "exp_move_12m": 0.1782483655939027,
+   "momentum": -0.005726145781281091,
+   "volatility": 0.06515516495216353,
+   "urgency": 0.8253968253968254,
+   "months_since_last": 1.7082785808147174,
+   "cycle_months": 2.0696452036793693,
+   "last_price": 252.0,
+   "forecast": {
+    "p50_3": 266.0313393336652,
+    "p10_3": 231.94050995716827,
+    "p90_3": 300.122168710162,
+    "p50_6": 275.1301864699309,
+    "p10_6": 225.269528354992,
+    "p90_6": 324.9908445848698,
+    "p50_12": 296.9185881296635,
+    "p10_12": 220.8207798639756,
+    "p90_12": 373.01639639535136
+   },
+   "ratio_q25": 0.8706709956709957,
+   "ratio_q75": 1.081196964470507
+  },
+  "BOX PANEL,SIZE:175(A) X 175(B) X 100(C)": {
+   "score": 15.8,
+   "label": "HOLD OFF",
+   "colour": "#dc2626",
+   "reasons": [
+    "Prices expected to soften and stock position allows waiting.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.07478011858722086,
+    "momentum": 0.013734268387962992,
+    "urgency": 0.3771043771043771,
+    "volatility": 0.11248408324034229
+   },
+   "exp_move_3m": -0.07478011858722086,
+   "exp_move_6m": -0.07125090222231982,
+   "exp_move_12m": -0.06415203195357722,
+   "momentum": 0.013734268387962992,
+   "volatility": 0.11248408324034229,
+   "urgency": 0.3771043771043771,
+   "months_since_last": 1.8396846254927726,
+   "cycle_months": 4.8784494086727985,
+   "last_price": 581.15,
+   "forecast": {
+    "p50_3": 537.6915340830366,
+    "p10_3": 473.8514236540224,
+    "p90_3": 601.5316445120508,
+    "p50_6": 539.7425381734988,
+    "p10_6": 449.1146049828511,
+    "p90_6": 630.3704713641466,
+    "p50_12": 543.8680466301786,
+    "p10_12": 414.72115122705736,
+    "p90_12": 673.0149420332998
+   },
+   "ratio_q25": 0.87890625,
+   "ratio_q75": 1.1377777777777778
+  },
+  "MCB,240V,25A,2P,10KA": {
+   "score": 47.9,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Stable prices, normal cycle position \u2014 proceed on routine timing.",
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy."
+   ],
+   "inputs": {
+    "exp_move": 0.0025852587043169463,
+    "momentum": -0.0051635024010579155,
+    "urgency": 0.7398843930635839,
+    "volatility": 0.06741158513619153
+   },
+   "exp_move_3m": 0.0025852587043169463,
+   "exp_move_6m": 0.02547352164879465,
+   "exp_move_12m": 0.09394080866095407,
+   "momentum": -0.0051635024010579155,
+   "volatility": 0.06741158513619153,
+   "urgency": 0.7398843930635839,
+   "months_since_last": 4.204993429697766,
+   "cycle_months": 5.683311432325887,
+   "last_price": 259.0,
+   "forecast": {
+    "p50_3": 259.6695820044181,
+    "p10_3": 255.8493891892076,
+    "p90_3": 263.48977481962856,
+    "p50_6": 265.5976421070378,
+    "p10_6": 260.07173706560155,
+    "p90_6": 271.1235471484741,
+    "p50_12": 283.3306694431871,
+    "p10_12": 274.9940920175168,
+    "p90_12": 291.66724686885743
+   },
+   "ratio_q25": 0.8280411426292225,
+   "ratio_q75": 1.1890975175915437
+  },
+  "MCB,415VAC,6A,2P,10KA": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.0,
+    "momentum": 0.00602488354652186,
+    "urgency": 35.64,
+    "volatility": 0.24390233917333387
+   },
+   "exp_move_3m": 0.0,
+   "exp_move_6m": 0.0,
+   "exp_move_12m": 0.0,
+   "momentum": 0.00602488354652186,
+   "volatility": 0.24390233917333387,
+   "urgency": 35.64,
+   "months_since_last": 58.54139290407358,
+   "cycle_months": 1.6425755584756898,
+   "last_price": 269.0,
+   "forecast": {
+    "p50_3": 269.0,
+    "p10_3": 227.3102707097414,
+    "p90_3": 310.68972929025864,
+    "p50_6": 269.0,
+    "p10_6": 227.3102707097414,
+    "p90_6": 310.68972929025864,
+    "p50_12": 269.0,
+    "p10_12": 214.57062235793137,
+    "p90_12": 323.42937764206863
+   },
+   "ratio_q25": 0.6469537480063796,
+   "ratio_q75": 1.097953774385072
+  },
+  "MCB,415VAC,10A,1P,10KA": {
+   "score": 43.8,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Stable prices, normal cycle position \u2014 proceed on routine timing.",
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy."
+   ],
+   "inputs": {
+    "exp_move": 3.9474596431116675e-16,
+    "momentum": 0.01500159894536647,
+    "urgency": 0.7123287671232876,
+    "volatility": 0.07483292909708798
+   },
+   "exp_move_3m": 3.9474596431116675e-16,
+   "exp_move_6m": 3.9474596431116675e-16,
+   "exp_move_12m": 3.9474596431116675e-16,
+   "momentum": 0.01500159894536647,
+   "volatility": 0.07483292909708798,
+   "urgency": 0.7123287671232876,
+   "months_since_last": 1.7082785808147174,
+   "cycle_months": 2.3981603153745072,
+   "last_price": 108.0,
+   "forecast": {
+    "p50_3": 108.00000000000004,
+    "p10_3": 95.6329252116823,
+    "p90_3": 120.36707478831777,
+    "p50_6": 108.00000000000004,
+    "p10_6": 90.51031510747872,
+    "p90_6": 125.48968489252132,
+    "p50_12": 108.00000000000004,
+    "p10_12": 83.26585042336458,
+    "p90_12": 132.73414957663547
+   },
+   "ratio_q25": 0.920462872496336,
+   "ratio_q75": 1.1427681992337164
+  },
+  "CABLE TIE,TYPE:6/6,DIA:76.2MM": {
+   "score": 34.9,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Stable prices with comfortable cover \u2014 no reason to advance the buy.",
+    "High price volatility \u2014 favour staggered lots over one large bet.",
+    "Prices expected to soften and stock position allows waiting."
+   ],
+   "inputs": {
+    "exp_move": -0.024743525300633947,
+    "momentum": -0.00036936868707783616,
+    "urgency": 0.18571428571428572,
+    "volatility": 0.13618537432546612
+   },
+   "exp_move_3m": -0.024743525300633947,
+   "exp_move_6m": -0.07976292351519812,
+   "exp_move_12m": -0.1451297365699772,
+   "momentum": -0.00036936868707783616,
+   "volatility": 0.13618537432546612,
+   "urgency": 0.18571428571428572,
+   "months_since_last": 1.281208935611038,
+   "cycle_months": 6.898817345597897,
+   "last_price": 1.23,
+   "forecast": {
+    "p50_3": 1.1995654638802202,
+    "p10_3": 1.035656772889477,
+    "p90_3": 1.3634741548709632,
+    "p50_6": 1.1318916040763063,
+    "p10_6": 0.976188368106702,
+    "p90_6": 1.287594840045911,
+    "p50_12": 1.051490424018928,
+    "p10_12": 0.8469340014656195,
+    "p90_12": 1.2560468465722368
+   },
+   "ratio_q25": 0.8925233644859811,
+   "ratio_q75": 1.0488095238095239
+  },
+  "MCB,415VAC,10A,3P,10KA": {
+   "score": 66.0,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates."
+   ],
+   "inputs": {
+    "exp_move": 0.0031987949094663994,
+    "momentum": -0.003595982654929512,
+    "urgency": 2.752,
+    "volatility": 0.05554229978547569
+   },
+   "exp_move_3m": 0.0031987949094663994,
+   "exp_move_6m": 0.011840152057177207,
+   "exp_move_12m": 0.004533039812570579,
+   "momentum": -0.003595982654929512,
+   "volatility": 0.05554229978547569,
+   "urgency": 2.752,
+   "months_since_last": 11.300919842312746,
+   "cycle_months": 4.106438896189225,
+   "last_price": 405.7142857142857,
+   "forecast": {
+    "p50_3": 407.0120825061264,
+    "p10_3": 393.0029082772194,
+    "p90_3": 421.0212567350334,
+    "p50_6": 410.5180045489119,
+    "p10_6": 390.5353839930691,
+    "p90_6": 430.5006251047546,
+    "p50_12": 407.5534047239572,
+    "p10_12": 379.4977921278558,
+    "p90_12": 435.6090173200586
+   },
+   "ratio_q25": 0.8802486750917244,
+   "ratio_q75": 1.01
+  },
+  "ELMEX TB UBT-10": {
+   "score": 33.5,
+   "label": "WAIT",
+   "colour": "#ea580c",
+   "reasons": [
+    "Softening outlook \u2014 defer to late in the cycle to capture the drop.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.18875326162333023,
+    "momentum": 0.003058843283321501,
+    "urgency": 0.7661290322580645,
+    "volatility": 0.10090069074631361
+   },
+   "exp_move_3m": -0.18875326162333023,
+   "exp_move_6m": -0.19523375975961277,
+   "exp_move_12m": -0.20803986470499655,
+   "momentum": 0.003058843283321501,
+   "volatility": 0.10090069074631361,
+   "urgency": 0.7661290322580645,
+   "months_since_last": 3.1208935611038107,
+   "cycle_months": 4.073587385019711,
+   "last_price": 19.7,
+   "forecast": {
+    "p50_3": 15.981560746020394,
+    "p10_3": 13.674482748844005,
+    "p90_3": 18.28863874319678,
+    "p50_6": 15.853894932735628,
+    "p10_6": 12.617257437628863,
+    "p90_6": 19.0905324278424,
+    "p50_12": 15.601614665311567,
+    "p10_12": 11.097155747088854,
+    "p90_12": 20.106073583534283
+   },
+   "ratio_q25": 0.9042941176470588,
+   "ratio_q75": 1.0179805154479118
+  },
+  "MCB,415VAC,6A,1P,10KA": {
+   "score": 50.0,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Stable prices, normal cycle position \u2014 proceed on routine timing."
+   ],
+   "inputs": {
+    "exp_move": 0.00921678469916445,
+    "momentum": 0.012177268560795776,
+    "urgency": 0.8253968253968254,
+    "volatility": 0.07296146427617006
+   },
+   "exp_move_3m": 0.00921678469916445,
+   "exp_move_6m": 0.00921678469916445,
+   "exp_move_12m": 0.00921678469916445,
+   "momentum": 0.012177268560795776,
+   "volatility": 0.07296146427617006,
+   "urgency": 0.8253968253968254,
+   "months_since_last": 1.7082785808147174,
+   "cycle_months": 2.0696452036793693,
+   "last_price": 108.0,
+   "forecast": {
+    "p50_3": 108.99541274750976,
+    "p10_3": 99.12393233046,
+    "p90_3": 118.86689316455954,
+    "p50_6": 108.99541274750976,
+    "p10_6": 95.03503126101758,
+    "p90_6": 122.95579423400196,
+    "p50_12": 108.99541274750976,
+    "p10_12": 89.25245191341024,
+    "p90_12": 128.7383735816093
+   },
+   "ratio_q25": 0.9268119266055046,
+   "ratio_q75": 1.1231089781569696
+  },
+  "CABLE TIE,TYPE:6/6,DIA:50.8MM": {
+   "score": 63.4,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "No urgency yet, but locking volume before a forecast rise protects cost.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.05760668435745827,
+    "momentum": -0.004431619584703794,
+    "urgency": 0.20689655172413796,
+    "volatility": 0.11627194187843133
+   },
+   "exp_move_3m": 0.05760668435745827,
+   "exp_move_6m": 0.10342552167607162,
+   "exp_move_12m": 0.1640158205765412,
+   "momentum": -0.004431619584703794,
+   "volatility": 0.11627194187843133,
+   "urgency": 0.20689655172413796,
+   "months_since_last": 1.281208935611038,
+   "cycle_months": 6.19250985545335,
+   "last_price": 0.85,
+   "forecast": {
+    "p50_3": 0.8989656817038395,
+    "p10_3": 0.7916319664126115,
+    "p90_3": 1.0062993969950675,
+    "p50_6": 0.9379116934246609,
+    "p10_6": 0.8251738372440964,
+    "p90_6": 1.050649549605225,
+    "p50_12": 0.98941344749006,
+    "p10_12": 0.8212232702908636,
+    "p90_12": 1.1576036246892565
+   },
+   "ratio_q25": 0.8742857142857143,
+   "ratio_q75": 1.0175492610837438
+  },
+  "TERMINAL END,TUBULAR,CU,35MM2": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.0154039723975683,
+    "momentum": -0.0010023495327549502,
+    "urgency": 3.095238095238095,
+    "volatility": 0.15038574174118438
+   },
+   "exp_move_3m": 0.0154039723975683,
+   "exp_move_6m": 0.009869688420022449,
+   "exp_move_12m": 0.01137060686805147,
+   "momentum": -0.0010023495327549502,
+   "volatility": 0.15038574174118438,
+   "urgency": 3.095238095238095,
+   "months_since_last": 10.676741130091983,
+   "cycle_months": 3.4494086727989486,
+   "last_price": 16.0,
+   "forecast": {
+    "p50_3": 16.246463558361093,
+    "p10_3": 15.188394019981784,
+    "p90_3": 17.3045330967404,
+    "p50_6": 16.15791501472036,
+    "p10_6": 14.989170643777385,
+    "p90_6": 17.326659385663337,
+    "p50_12": 16.181929709888824,
+    "p10_12": 14.526619015704012,
+    "p90_12": 17.837240404073636
+   },
+   "ratio_q25": 0.9070283018867925,
+   "ratio_q75": 1.0224379235653394
+  },
+  "MCB,415VAC,63A,2P,10KA": {
+   "score": 46.5,
+   "label": "MONITOR",
+   "colour": "#d97706",
+   "reasons": [
+    "Stable prices, normal cycle position \u2014 proceed on routine timing.",
+    "Softening outlook \u2014 defer to late in the cycle to capture the drop.",
+    "Stock is due but prices are easing \u2014 stagger purchases in smaller lots."
+   ],
+   "inputs": {
+    "exp_move": -0.028873436083054642,
+    "momentum": -0.007188001200227053,
+    "urgency": 1.091743119266055,
+    "volatility": 0.056987473040220164
+   },
+   "exp_move_3m": -0.028873436083054642,
+   "exp_move_6m": -0.03202496276968296,
+   "exp_move_12m": -0.038297367069498996,
+   "momentum": -0.007188001200227053,
+   "volatility": 0.056987473040220164,
+   "urgency": 1.091743119266055,
+   "months_since_last": 3.9093298291721417,
+   "cycle_months": 3.5808147174770038,
+   "last_price": 410.0,
+   "forecast": {
+    "p50_3": 398.1618912059476,
+    "p10_3": 376.0755623976879,
+    "p90_3": 420.2482200142072,
+    "p50_6": 396.86976526443,
+    "p10_6": 365.7363435081922,
+    "p90_6": 428.0031870206678,
+    "p50_12": 394.2980795015054,
+    "p10_12": 350.5540787586966,
+    "p90_12": 438.0420802443142
+   },
+   "ratio_q25": 0.8973924291938997,
+   "ratio_q75": 1.0624860646599776
+  },
+  "TERMINAL,RING TONGUE,CU,4-6MM2": {
+   "score": 80.2,
+   "label": "BUY NOW",
+   "colour": "#16a34a",
+   "reasons": [
+    "Prices expected to rise and the ordering cycle is overdue \u2014 cover now.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.06247498043514657,
+    "momentum": -0.002919029400796084,
+    "urgency": 1.8156424581005586,
+    "volatility": 0.14122512038600443
+   },
+   "exp_move_3m": 0.06247498043514657,
+   "exp_move_6m": 0.06835277905117315,
+   "exp_move_12m": 0.08020610722287108,
+   "momentum": -0.002919029400796084,
+   "volatility": 0.14122512038600443,
+   "urgency": 1.8156424581005586,
+   "months_since_last": 10.676741130091983,
+   "cycle_months": 5.88042049934297,
+   "last_price": 3.12,
+   "forecast": {
+    "p50_3": 3.3149219389576574,
+    "p10_3": 3.0045173058081494,
+    "p90_3": 3.625326572107166,
+    "p50_6": 3.3332606706396604,
+    "p10_6": 2.9720498221292884,
+    "p90_6": 3.694471519150032,
+    "p50_12": 3.370243054535358,
+    "p10_12": 2.8537461447773884,
+    "p90_12": 3.886739964293328
+   },
+   "ratio_q25": 0.9365774717572358,
+   "ratio_q75": 1.1141115678885463
+  },
+  "TERMINAL END,RING TORQUE,CU,16MM2": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.007222928259297651,
+    "momentum": -0.0031293744791218952,
+    "urgency": 1.7955801104972375,
+    "volatility": 0.16570815027325583
+   },
+   "exp_move_3m": 0.007222928259297651,
+   "exp_move_6m": 0.01524915586474859,
+   "exp_move_12m": 0.002359565521719211,
+   "momentum": -0.0031293744791218952,
+   "volatility": 0.16570815027325583,
+   "urgency": 1.7955801104972375,
+   "months_since_last": 10.676741130091983,
+   "cycle_months": 5.946123521681997,
+   "last_price": 5.5,
+   "forecast": {
+    "p50_3": 5.539726105426137,
+    "p10_3": 5.199656132406692,
+    "p90_3": 5.879796078445582,
+    "p50_6": 5.583870357256117,
+    "p10_6": 5.179900396269352,
+    "p90_6": 5.987840318242883,
+    "p50_12": 5.512977610369456,
+    "p10_12": 4.948931027699725,
+    "p90_12": 6.077024193039186
+   },
+   "ratio_q25": 0.9472187270630177,
+   "ratio_q75": 1.0973947443938834
+  },
+  "TERMINAL,AL,TUBE,LONG BARREL,240MM2": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.010274123143389718,
+    "momentum": -0.010381886136819958,
+    "urgency": 2.0121951219512195,
+    "volatility": 0.29106971347277677
+   },
+   "exp_move_3m": 0.010274123143389718,
+   "exp_move_6m": 0.032592462180957224,
+   "exp_move_12m": 0.07871916027275153,
+   "momentum": -0.010381886136819958,
+   "volatility": 0.29106971347277677,
+   "urgency": 2.0121951219512195,
+   "months_since_last": 10.840998685939553,
+   "cycle_months": 5.387647831800263,
+   "last_price": 49.3,
+   "forecast": {
+    "p50_3": 49.80651427096911,
+    "p10_3": 28.215315603443315,
+    "p90_3": 71.3977129384949,
+    "p50_6": 50.90680838552119,
+    "p10_6": 24.89921141402312,
+    "p90_6": 76.91440535701925,
+    "p50_12": 53.18085460144665,
+    "p10_12": 21.27234184057866,
+    "p90_12": 85.08936736231465
+   },
+   "ratio_q25": 0.6977792134377776,
+   "ratio_q75": 1.3130071856934464
+  },
+  "TERMINAL END,TUBULAR,CU,16MM2": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.0029449123621135918,
+    "momentum": -0.002350559874602216,
+    "urgency": 2.3897058823529407,
+    "volatility": 0.1298252908245765
+   },
+   "exp_move_3m": 0.0029449123621135918,
+   "exp_move_6m": -0.0026884361862602626,
+   "exp_move_12m": -0.005585605936800584,
+   "momentum": -0.002350559874602216,
+   "volatility": 0.1298252908245765,
+   "urgency": 2.3897058823529407,
+   "months_since_last": 10.676741130091983,
+   "cycle_months": 4.467805519053877,
+   "last_price": 6.5,
+   "forecast": {
+    "p50_3": 6.519141930353738,
+    "p10_3": 5.99297238699172,
+    "p90_3": 7.045311473715756,
+    "p50_6": 6.482525164789308,
+    "p10_6": 5.841721317567086,
+    "p90_6": 7.123329012011531,
+    "p50_12": 6.463693561410796,
+    "p10_12": 5.560092659656658,
+    "p90_12": 7.367294463164935
+   },
+   "ratio_q25": 0.9027777777777778,
+   "ratio_q75": 1.0615384615384615
+  },
+  "TERMINAL END,TUBULAR,CU,10MM2": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.012153534941973052,
+    "momentum": -0.0001668717104922539,
+    "urgency": 2.7777777777777777,
+    "volatility": 0.13797715590392426
+   },
+   "exp_move_3m": -0.012153534941973052,
+   "exp_move_6m": -0.007413312904818782,
+   "exp_move_12m": -0.005648448064681845,
+   "momentum": -0.0001668717104922539,
+   "volatility": 0.13797715590392426,
+   "urgency": 2.7777777777777777,
+   "months_since_last": 10.676741130091983,
+   "cycle_months": 3.843626806833114,
+   "last_price": 5.8,
+   "forecast": {
+    "p50_3": 5.729509497336556,
+    "p10_3": 5.5359026794424775,
+    "p90_3": 5.923116315230634,
+    "p50_6": 5.757002785152051,
+    "p10_6": 5.531871287163448,
+    "p90_6": 5.982134283140653,
+    "p50_12": 5.767239001224845,
+    "p10_12": 5.448288882006211,
+    "p90_12": 6.086189120443479
+   },
+   "ratio_q25": 0.9064710921490239,
+   "ratio_q75": 1.0570527635238356
+  },
+  "TERMINAL,RING TONGUE,CU,10MM2": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.005775993538726967,
+    "momentum": -0.0035955429966475832,
+    "urgency": 1.8156424581005586,
+    "volatility": 0.17152960741123568
+   },
+   "exp_move_3m": -0.005775993538726967,
+   "exp_move_6m": -0.011519022162000528,
+   "exp_move_12m": -0.022421894743356176,
+   "momentum": -0.0035955429966475832,
+   "volatility": 0.17152960741123568,
+   "urgency": 1.8156424581005586,
+   "months_since_last": 10.676741130091983,
+   "cycle_months": 5.88042049934297,
+   "last_price": 3.1,
+   "forecast": {
+    "p50_3": 3.0820944200299465,
+    "p10_3": 2.73941473224118,
+    "p90_3": 3.4247741078187137,
+    "p50_6": 3.0642910312977985,
+    "p10_6": 2.662771953495203,
+    "p90_6": 3.465810109100394,
+    "p50_12": 3.030492126295596,
+    "p10_12": 2.468921565199027,
+    "p90_12": 3.592062687392165
+   },
+   "ratio_q25": 0.9223074365226882,
+   "ratio_q75": 1.0271086626139816
+  },
+  "CABLE TIE,TYPE:6/6,DIA:25.4MM": {
+   "score": 19.8,
+   "label": "HOLD OFF",
+   "colour": "#dc2626",
+   "reasons": [
+    "Prices expected to soften and stock position allows waiting.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": -0.07195105191109775,
+    "momentum": -0.0008178702902523937,
+    "urgency": 0.18571428571428572,
+    "volatility": 0.15026065237220584
+   },
+   "exp_move_3m": -0.07195105191109775,
+   "exp_move_6m": -0.08975945194166117,
+   "exp_move_12m": -0.08966216566727046,
+   "momentum": -0.0008178702902523937,
+   "volatility": 0.15026065237220584,
+   "urgency": 0.18571428571428572,
+   "months_since_last": 1.281208935611038,
+   "cycle_months": 6.898817345597897,
+   "last_price": 0.26,
+   "forecast": {
+    "p50_3": 0.2412927265031146,
+    "p10_3": 0.2004614015749984,
+    "p90_3": 0.2821240514312307,
+    "p50_6": 0.2366625424951681,
+    "p10_6": 0.1957889179713453,
+    "p90_6": 0.277536167018991,
+    "p50_12": 0.2366878369265097,
+    "p10_12": 0.1788776247013525,
+    "p90_12": 0.2944980491516669
+   },
+   "ratio_q25": 0.8473684210526315,
+   "ratio_q75": 1.026315789473684
+  },
+  "TERMINAL END,TYPE:PIN,6MM2": {
+   "score": 62.3,
+   "label": "BUY / STAGGER",
+   "colour": "#65a30d",
+   "reasons": [
+    "Stable prices and an overdue cycle \u2014 replenish at prevailing rates.",
+    "High price volatility \u2014 favour staggered lots over one large bet."
+   ],
+   "inputs": {
+    "exp_move": 0.0,
+    "momentum": 0.002449598400821779,
+    "urgency": 2.321428571428571,
+    "volatility": 0.1513853724381535
+   },
+   "exp_move_3m": 0.0,
+   "exp_move_6m": 0.0,
+   "exp_move_12m": 0.0,
+   "momentum": 0.002449598400821779,
+   "volatility": 0.1513853724381535,
+   "urgency": 2.321428571428571,
+   "months_since_last": 10.676741130091983,
+   "cycle_months": 4.599211563731932,
+   "last_price": 2.54,
+   "forecast": {
+    "p50_3": 2.54,
+    "p10_3": 2.377377973568282,
+    "p90_3": 2.702622026431718,
+    "p50_6": 2.54,
+    "p10_6": 2.351801574079716,
+    "p90_6": 2.7281984259202847,
+    "p50_12": 2.54,
+    "p10_12": 2.273847233646265,
+    "p90_12": 2.8061527663537347
+   },
+   "ratio_q25": 0.9431250000000001,
+   "ratio_q75": 1.0878787878787877
+  }
+ }
+}
